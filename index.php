@@ -1882,7 +1882,7 @@
         <div class="column center">
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/logo-dark.png"
+              <img src="./img/n-logo2.png"
                 alt="Machic &#8211; Electronics Store eCommerce Theme">
             </a>
           </div><!-- site-brand -->
