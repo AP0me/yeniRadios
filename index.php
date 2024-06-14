@@ -418,13 +418,13 @@
     href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/woocommerce/assets/css/select2.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-base-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/themes/machic/assets/css/base.css?ver=1718259534'
+    href='./base.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-klbicon-css'
     href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/themes/machic/assets/css/klbicon.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-style-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/themes/machic/style.css?ver=1718259534'
+    href='./style.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='elementor-icons-css'
     href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1718259534'
@@ -1882,7 +1882,7 @@
         <div class="column center">
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="./img/n-logo2.png"
+              <img src="./img/n-logo.png"
                 alt="Machic &#8211; Electronics Store eCommerce Theme">
             </a>
           </div><!-- site-brand -->
@@ -4432,7 +4432,7 @@
             <div class="site-details">
               <div class="site-brand">
                 <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-                <img src="./img/n-logo2.png"
+                <img src="./img/n-logo.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                 </a>
               </div>
