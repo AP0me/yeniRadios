@@ -1879,7 +1879,7 @@
             </a>
           </div><!-- menu-toggle -->
         </div><!-- column -->
-        <div class="column center">
+        <div class="column center"> 
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
               <img src="./img/n-logo.png"
