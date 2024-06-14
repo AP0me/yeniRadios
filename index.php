@@ -784,9 +784,9 @@
   </noscript>
   <meta name="generator"
     content="Elementor 3.21.8; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
-  <link rel="icon" href="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/cropped-logo-dark-32x32.png"
+  <link rel="icon" href="./img/cropped-logo-dark-32x32.png"
     sizes="32x32" />
-  <link rel="icon" href="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/cropped-logo-dark-192x192.png"
+  <link rel="icon" href="./img/cropped-logo-dark-192x192.png"
     sizes="192x192" />
   <link rel="apple-touch-icon"
     href="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/cropped-logo-dark-180x180.png" />
