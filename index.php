@@ -21,10 +21,10 @@
   <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
   <link href='https://754969b0.rocketcdn.me' rel='preconnect' />
   <link rel="alternate" type="application/rss+xml" title="Machic - Electronics Store eCommerce Theme &raquo; Feed"
-    href="https://klbtheme.com/machic/feed/" />
+    href="#feed/" />
   <link rel="alternate" type="application/rss+xml"
     title="Machic - Electronics Store eCommerce Theme &raquo; Comments Feed"
-    href="https://klbtheme.com/machic/comments/feed/" />
+    href="#comments/feed/" />
   <style id='wp-emoji-styles-inline-css' type='text/css'>
     img.wp-smiley,
     img.emoji {
@@ -703,17 +703,17 @@
 
 
 
-  <link rel="https://api.w.org/" href="https://klbtheme.com/machic/wp-json/" />
-  <link rel="alternate" type="application/json" href="https://klbtheme.com/machic/wp-json/wp/v2/pages/1642" />
-  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://klbtheme.com/machic/xmlrpc.php?rsd" />
+  <link rel="https://api.w.org/" href="#wp-json/" />
+  <link rel="alternate" type="application/json" href="#wp-json/wp/v2/pages/1642" />
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="#xmlrpc.php?rsd" />
   <meta name="generator" content="WordPress 6.5.4" />
   <meta name="generator" content="WooCommerce 8.9.2" />
-  <link rel="canonical" href="https://klbtheme.com/machic/home-5/" />
+  <link rel="canonical" href="#home-5/" />
   <link rel='shortlink' href='https://klbtheme.com/machic/?p=1642' />
   <link rel="alternate" type="application/json+oembed"
-    href="https://klbtheme.com/machic/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklbtheme.com%2Fmachic%2Fhome-5%2F" />
+    href="#wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklbtheme.com%2Fmachic%2Fhome-5%2F" />
   <link rel="alternate" type="text/xml+oembed"
-    href="https://klbtheme.com/machic/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklbtheme.com%2Fmachic%2Fhome-5%2F&#038;format=xml" />
+    href="#wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklbtheme.com%2Fmachic%2Fhome-5%2F&#038;format=xml" />
 
   <style type="text/css">
     @media(max-width:64rem) {
@@ -884,7 +884,7 @@
       <div class="site-offcanvas-row site-offcanvas-header">
         <div class="column left">
           <div class="site-brand">
-            <a href="https://klbtheme.com/machic/" title="Machic &#8211; Electronics Store eCommerce Theme">
+            <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
               <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/logo-light.png"
                 alt="Machic &#8211; Electronics Store eCommerce Theme">
 
@@ -912,51 +912,51 @@
               <ul id="menu-sidebar-menu" class="menu departments-menu collapse show">
                 <li id="menu-item-2121"
                   class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2121">
-                  <a href="https://klbtheme.com/machic/product-category/cell-phones/"><i
+                  <a href="#product-category/cell-phones/"><i
                       class="klbth-icon-smartphone"></i>Cell Phones</a>
                   <ul class="sub-menu">
                     <li id="menu-item-2596"
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2596">
-                      <a href="https://klbtheme.com/machic/product-category/cell-phones/">Cell Phones</a>
+                      <a href="#product-category/cell-phones/">Cell Phones</a>
                       <ul class="sub-menu">
                         <li id="menu-item-2129"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2129"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/phone-accessories/">Phone
+                            href="#product-category/cell-phones/phone-accessories/">Phone
                             Accessories</a></li>
                         <li id="menu-item-2130"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2130"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/phone-cases/">Phone Cases</a>
+                            href="#product-category/cell-phones/phone-cases/">Phone Cases</a>
                         </li>
                         <li id="menu-item-2131"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2131"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/postpaid-phones/">Postpaid
+                            href="#product-category/cell-phones/postpaid-phones/">Postpaid
                             Phones</a></li>
                         <li id="menu-item-2137"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2137"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/unlocked-phones/">Unlocked
+                            href="#product-category/cell-phones/unlocked-phones/">Unlocked
                             Phones</a></li>
                         <li id="menu-item-2132"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2132"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/prepaid-phones/">Prepaid
+                            href="#product-category/cell-phones/prepaid-phones/">Prepaid
                             Phones</a></li>
                         <li id="menu-item-2133"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2133"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/prepaid-plans/">Prepaid
+                            href="#product-category/cell-phones/prepaid-plans/">Prepaid
                             Plans</a></li>
                         <li id="menu-item-2134"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2134"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/refurbished-phones/">Refurbished
+                            href="#product-category/cell-phones/refurbished-phones/">Refurbished
                             Phones</a></li>
                         <li id="menu-item-2136"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2136"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/straight-talk/">Straight
+                            href="#product-category/cell-phones/straight-talk/">Straight
                             Talk</a></li>
                         <li id="menu-item-2128"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2128"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/iphone/">iPhone</a></li>
+                            href="#product-category/cell-phones/iphone/">iPhone</a></li>
                         <li id="menu-item-2135"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2135"><a
-                            href="https://klbtheme.com/machic/product-category/cell-phones/samsung-galaxy/">Samsung
+                            href="#product-category/cell-phones/samsung-galaxy/">Samsung
                             Galaxy</a></li>
                       </ul>
                     </li>
@@ -964,45 +964,45 @@
                 </li>
                 <li id="menu-item-2122"
                   class="klbth-icon-laptop menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2122">
-                  <a href="https://klbtheme.com/machic/product-category/computers-accessories/">Computers &amp;
+                  <a href="#product-category/computers-accessories/">Computers &amp;
                     Accessories</a>
                   <ul class="sub-menu">
                     <li id="menu-item-2158"
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2158">
-                      <a href="https://klbtheme.com/machic/product-category/computers-accessories/">Computers &amp;
+                      <a href="#product-category/computers-accessories/">Computers &amp;
                         Accessories</a>
                       <ul class="sub-menu">
                         <li id="menu-item-2142"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2142"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/computer-components/">Computer
+                            href="#product-category/computers-accessories/computer-components/">Computer
                             Components</a></li>
                         <li id="menu-item-2141"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2141"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/computer-accessories/">Computer
+                            href="#product-category/computers-accessories/computer-accessories/">Computer
                             Accessories</a></li>
                         <li id="menu-item-2143"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2143"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/desktops/">Desktops</a>
+                            href="#product-category/computers-accessories/desktops/">Desktops</a>
                         </li>
                         <li id="menu-item-2144"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2144"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/laptops/">Laptops</a>
+                            href="#product-category/computers-accessories/laptops/">Laptops</a>
                         </li>
                         <li id="menu-item-2145"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2145"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/monitors/">Monitors</a>
+                            href="#product-category/computers-accessories/monitors/">Monitors</a>
                         </li>
                         <li id="menu-item-2146"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2146"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/networking/">Networking</a>
+                            href="#product-category/computers-accessories/networking/">Networking</a>
                         </li>
                         <li id="menu-item-2147"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2147"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/pc-gaming/">PC
+                            href="#product-category/computers-accessories/pc-gaming/">PC
                             Gaming</a></li>
                         <li id="menu-item-2148"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2148"><a
-                            href="https://klbtheme.com/machic/product-category/computers-accessories/tablets/">Tablets</a>
+                            href="#product-category/computers-accessories/tablets/">Tablets</a>
                         </li>
                       </ul>
                     </li>
@@ -1010,43 +1010,43 @@
                 </li>
                 <li id="menu-item-2125"
                   class="klbth-icon-screen menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2125">
-                  <a href="https://klbtheme.com/machic/product-category/television-video/">Television &amp; Video</a>
+                  <a href="#product-category/television-video/">Television &amp; Video</a>
                   <ul class="sub-menu">
                     <li id="menu-item-2159"
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2159">
-                      <a href="https://klbtheme.com/machic/product-category/television-video/">Television &amp;
+                      <a href="#product-category/television-video/">Television &amp;
                         Video</a>
                       <ul class="sub-menu">
                         <li id="menu-item-2149"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2149"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/hd-dvd-players/">HD DVD
+                            href="#product-category/television-video/hd-dvd-players/">HD DVD
                             Players</a></li>
                         <li id="menu-item-2150"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2150"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/projection-screens/">Projection
+                            href="#product-category/television-video/projection-screens/">Projection
                             Screens</a></li>
                         <li id="menu-item-2151"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2151"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/projectors/">Projectors</a>
+                            href="#product-category/television-video/projectors/">Projectors</a>
                         </li>
                         <li id="menu-item-2152"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2152"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/television-accessories/">Television
+                            href="#product-category/television-video/television-accessories/">Television
                             Accessories</a></li>
                         <li id="menu-item-2153"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2153"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/televisions/">Televisions</a>
+                            href="#product-category/television-video/televisions/">Televisions</a>
                         </li>
                         <li id="menu-item-2154"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2154"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/tv-dvd-combos/">TV-DVD
+                            href="#product-category/television-video/tv-dvd-combos/">TV-DVD
                             Combos</a></li>
                         <li id="menu-item-2155"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2155"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/vcrs/">VCRs</a></li>
+                            href="#product-category/television-video/vcrs/">VCRs</a></li>
                         <li id="menu-item-2156"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2156"><a
-                            href="https://klbtheme.com/machic/product-category/television-video/video-glasses/">Video
+                            href="#product-category/television-video/video-glasses/">Video
                             Glasses</a></li>
                       </ul>
                     </li>
@@ -1054,50 +1054,50 @@
                 </li>
                 <li id="menu-item-2124"
                   class="klbth-icon-smartwatch menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2124">
-                  <a href="https://klbtheme.com/machic/product-category/smartwatches/">Smartwatches</a>
+                  <a href="#product-category/smartwatches/">Smartwatches</a>
                   <ul class="sub-menu">
                     <li id="menu-item-2170"
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2170">
-                      <a href="https://klbtheme.com/machic/product-category/smartwatches/">Smartwatches</a>
+                      <a href="#product-category/smartwatches/">Smartwatches</a>
                       <ul class="sub-menu">
                         <li id="menu-item-2160"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2160"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/casio-watches/">Casio
+                            href="#product-category/smartwatches/casio-watches/">Casio
                             Watches</a></li>
                         <li id="menu-item-2161"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2161"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/chronograph-watches/">Chronograph
+                            href="#product-category/smartwatches/chronograph-watches/">Chronograph
                             Watches</a></li>
                         <li id="menu-item-2162"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2162"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/kids-watches/">Kids
+                            href="#product-category/smartwatches/kids-watches/">Kids
                             Watches</a></li>
                         <li id="menu-item-2163"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2163"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/luxury-watches/">Luxury
+                            href="#product-category/smartwatches/luxury-watches/">Luxury
                             Watches</a></li>
                         <li id="menu-item-2164"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2164"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/men/">Men Watches</a></li>
+                            href="#product-category/smartwatches/men/">Men Watches</a></li>
                         <li id="menu-item-2165"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2165"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/rolex-watches/">Rolex
+                            href="#product-category/smartwatches/rolex-watches/">Rolex
                             Watches</a></li>
                         <li id="menu-item-2169"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2169"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/women-watches/">Women
+                            href="#product-category/smartwatches/women-watches/">Women
                             Watches</a></li>
                         <li id="menu-item-2168"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2168"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/watch-brands/">Watch
+                            href="#product-category/smartwatches/watch-brands/">Watch
                             Brands</a></li>
                         <li id="menu-item-2167"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2167"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/timex-watches/">Timex
+                            href="#product-category/smartwatches/timex-watches/">Timex
                             Watches</a></li>
                         <li id="menu-item-2166"
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2166"><a
-                            href="https://klbtheme.com/machic/product-category/smartwatches/sport-watches/">Sport
+                            href="#product-category/smartwatches/sport-watches/">Sport
                             Watches</a></li>
                       </ul>
                     </li>
@@ -1105,25 +1105,25 @@
                 </li>
                 <li id="menu-item-2123"
                   class="klbth-icon-headphones menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2123">
-                  <a href="https://klbtheme.com/machic/product-category/headphones/">Headphones</a></li>
+                  <a href="#product-category/headphones/">Headphones</a></li>
                 <li id="menu-item-2120"
                   class="klbth-icon-camera menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2120">
-                  <a href="https://klbtheme.com/machic/product-category/camera-photo/">Camera &amp; Photo</a></li>
+                  <a href="#product-category/camera-photo/">Camera &amp; Photo</a></li>
                 <li id="menu-item-2126"
                   class="klbth-icon-play-station menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2126">
-                  <a href="https://klbtheme.com/machic/product-category/video-games/">Video Games</a></li>
+                  <a href="#product-category/video-games/">Video Games</a></li>
                 <li id="menu-item-2127"
                   class="klbth-icon-virtual-reality menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2127">
-                  <a href="https://klbtheme.com/machic/product-category/sports-outdoors/">Sports &amp; Outdoors</a></li>
+                  <a href="#product-category/sports-outdoors/">Sports &amp; Outdoors</a></li>
                 <li id="menu-item-2138"
                   class="klbth-icon-data-transfer-up menu-item menu-item-type-custom menu-item-object-custom menu-item-2138">
-                  <a href="https://klbtheme.com/machic/shop/?orderby=popularity">Best Sellers</a></li>
+                  <a href="#shop/?orderby=popularity">Best Sellers</a></li>
                 <li id="menu-item-2139"
                   class="klbth-icon-shopping-bag-arrow-up menu-item menu-item-type-custom menu-item-object-custom menu-item-2139">
-                  <a href="https://klbtheme.com/machic/shop/?featured=yes">Top 100 Offers</a></li>
+                  <a href="#shop/?featured=yes">Top 100 Offers</a></li>
                 <li id="menu-item-2140"
                   class="klbth-icon-timer menu-item menu-item-type-custom menu-item-object-custom menu-item-2140"><a
-                    href="https://klbtheme.com/machic/shop/">New Arrivals</a></li>
+                    href="#shop/">New Arrivals</a></li>
               </ul>
             </nav>
 
@@ -1131,69 +1131,69 @@
               <ul id="menu-menu-1" class="menu">
                 <li
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children">
-                  <a href="https://klbtheme.com/machic/">Home</a>
+                  <a href="#">Home</a>
                   <ul class="sub-menu">
                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a
-                        href="https://klbtheme.com/machic/">Home 1</a></li>
+                        href="#">Home 1</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                        href="https://klbtheme.com/machic/home-2/">Home 2</a></li>
+                        href="#home-2/">Home 2</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                        href="https://klbtheme.com/machic/home-3/">Home 3</a></li>
+                        href="#home-3/">Home 3</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                        href="https://klbtheme.com/machic/home-4/">Home 4</a></li>
+                        href="#home-4/">Home 4</a></li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1642 current_page_item">
-                      <a href="https://klbtheme.com/machic/home-5/">Home 5</a></li>
+                      <a href="#home-5/">Home 5</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                        href="https://klbtheme.com/machic/home-6/">Home 6</a></li>
+                        href="#home-6/">Home 6</a></li>
                   </ul>
                 </li>
                 <li class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
-                    href="https://klbtheme.com/machic/shop/">Shop</a>
+                    href="#shop/">Shop</a>
                   <ul class="sub-menu">
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
-                        href="https://klbtheme.com/machic/shop/">Shop Lists</a>
+                        href="#shop/">Shop Lists</a>
                       <ul class="sub-menu">
                         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                            href="https://klbtheme.com/machic/shop/">Shop Default</a></li>
+                            href="#shop/">Shop Default</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?opt=right-sidebar">Shop Right Sidebar</a></li>
+                            href="#shop/?opt=right-sidebar">Shop Right Sidebar</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=5&amp;opt=wide">Shop Wide</a></li>
+                            href="#shop/?column=5&amp;opt=wide">Shop Wide</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=5&amp;opt=full-width">Filters Area</a></li>
+                            href="#shop/?column=5&amp;opt=full-width">Filters Area</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?shop_view=list_view">List Left Sidebar</a></li>
+                            href="#shop/?shop_view=list_view">List Left Sidebar</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?ft=load-more">Load More Button</a></li>
+                            href="#shop/?ft=load-more">Load More Button</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?ft=infinite">Infinite Scrolling</a></li>
+                            href="#shop/?ft=infinite">Infinite Scrolling</a></li>
                       </ul>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children"><a
-                        href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
+                        href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
                         Detail</a>
                       <ul class="sub-menu">
                         <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                            href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
+                            href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
                             Default</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                            href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/">Product
+                            href="#product/oneplus-8-pro-onyx-black-android-smartphone/">Product
                             Variable</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                            href="https://klbtheme.com/machic/product/samsung-galaxy-watch-active/">Product Grouped</a>
+                            href="#product/samsung-galaxy-watch-active/">Product Grouped</a>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                            href="https://klbtheme.com/machic/product/new-apple-iphone-12-128gb-4gb-ram-black/">Product
+                            href="#product/new-apple-iphone-12-128gb-4gb-ram-black/">Product
                             External</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                            href="https://klbtheme.com/machic/product/samsung-galaxy-watch-active-2-aluminum-smart-watch-black/">Product
+                            href="#product/samsung-galaxy-watch-active-2-aluminum-smart-watch-black/">Product
                             Downloadable</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/?ft=imgzoom">Zoom
+                            href="#product/oneplus-8-pro-onyx-black-android-smartphone/?ft=imgzoom">Zoom
                             Image</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/product/beats-studio3-wireless-headphones-matte-black/?ft=imgzoom">Product
+                            href="#product/beats-studio3-wireless-headphones-matte-black/?ft=imgzoom">Product
                             With Video</a></li>
                       </ul>
                     </li>
@@ -1201,19 +1201,19 @@
                         href="#">Shop Pages</a>
                       <ul class="sub-menu">
                         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                            href="https://klbtheme.com/machic/cart/">Cart</a></li>
+                            href="#cart/">Cart</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                            href="https://klbtheme.com/machic/checkout/">Checkout</a></li>
+                            href="#checkout/">Checkout</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                            href="https://klbtheme.com/machic/my-account/">My account</a></li>
+                            href="#my-account/">My account</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                            href="https://klbtheme.com/machic/wishlist/">Wishlist</a></li>
+                            href="#wishlist/">Wishlist</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                            href="https://klbtheme.com/machic/order-tracking/">Order Tracking</a></li>
+                            href="#order-tracking/">Order Tracking</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?featured=yes">Featured Products</a></li>
+                            href="#shop/?featured=yes">Featured Products</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp">Order
+                            href="#product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp">Order
                             on WhatsApp</a></li>
                       </ul>
                     </li>
@@ -1221,40 +1221,40 @@
                         href="#">Shop Layouts</a>
                       <ul class="sub-menu">
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=2">Two Columns</a></li>
+                            href="#shop/?column=2">Two Columns</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=3">Three Columns</a></li>
+                            href="#shop/?column=3">Three Columns</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=3&amp;opt=wide">Three Columns Wide</a></li>
+                            href="#shop/?column=3&amp;opt=wide">Three Columns Wide</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=4">Four Columns</a></li>
+                            href="#shop/?column=4">Four Columns</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=4&amp;opt=wide">Four Columns Wide</a></li>
+                            href="#shop/?column=4&amp;opt=wide">Four Columns Wide</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=5&amp;opt=wide">Five Columns Wide</a></li>
+                            href="#shop/?column=5&amp;opt=wide">Five Columns Wide</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                            href="https://klbtheme.com/machic/shop/?column=6&amp;opt=wide">Six Columns Wide</a></li>
+                            href="#shop/?column=6&amp;opt=wide">Six Columns Wide</a></li>
                       </ul>
                     </li>
                   </ul>
                 </li>
                 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                    href="https://klbtheme.com/machic/product-category/cell-phones/"><i
+                    href="#product-category/cell-phones/"><i
                       class="klbth-icon-smartphone"></i> Cell Phones</a></li>
                 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                    href="https://klbtheme.com/machic/product-category/headphones/"><i
+                    href="#product-category/headphones/"><i
                       class="klbth-icon-headphones"></i> Headphones</a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                    href="https://klbtheme.com/machic/blog/">Blog</a></li>
+                    href="#blog/">Blog</a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                    href="https://klbtheme.com/machic/contact/">Contact</a></li>
+                    href="#contact/">Contact</a></li>
               </ul>
             </nav>
 
             <nav class="site-menu vertical thirdy">
               <ul id="menu-top-right" class="menu">
                 <li id="menu-item-2233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2233">
-                  <a href="https://klbtheme.com/machic/order-tracking/">Order Tracking</a></li>
+                  <a href="#order-tracking/">Order Tracking</a></li>
                 <li id="menu-item-2176"
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2176">
                   <a href="#">English</a>
@@ -1314,16 +1314,16 @@
                 <ul id="menu-top-left" class="menu">
                   <li id="menu-item-2231"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2231"><a
-                      href="https://klbtheme.com/machic/about-us/">About Us</a></li>
+                      href="#about-us/">About Us</a></li>
                   <li id="menu-item-2229"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2229"><a
-                      href="https://klbtheme.com/machic/my-account/">My account</a></li>
+                      href="#my-account/">My account</a></li>
                   <li id="menu-item-2199"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2199"><a
-                      href="https://klbtheme.com/machic/shop/?featured=yes">Featured Products</a></li>
+                      href="#shop/?featured=yes">Featured Products</a></li>
                   <li id="menu-item-2230"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2230"><a
-                      href="https://klbtheme.com/machic/wishlist/">Wishlist</a></li>
+                      href="#wishlist/">Wishlist</a></li>
                 </ul>
               </nav>
             </div><!-- column -->
@@ -1332,7 +1332,7 @@
               <nav class="site-menu horizontal">
                 <ul id="menu-top-right-1" class="menu">
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2233"><a
-                      href="https://klbtheme.com/machic/order-tracking/">Order Tracking</a></li>
+                      href="#order-tracking/">Order Tracking</a></li>
                   <li
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2176">
                     <a href="#">English</a>
@@ -1372,7 +1372,7 @@
 
             <div class="column align-center left">
               <div class="site-brand">
-                <a href="https://klbtheme.com/machic/" title="Machic &#8211; Electronics Store eCommerce Theme">
+                <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
                   <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/logo-light.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                 </a>
@@ -1382,69 +1382,69 @@
                 <ul id="menu-menu-2" class="menu">
                   <li
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children">
-                    <a href="https://klbtheme.com/machic/">Home</a>
+                    <a href="#">Home</a>
                     <ul class="sub-menu">
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a
-                          href="https://klbtheme.com/machic/">Home 1</a></li>
+                          href="#">Home 1</a></li>
                       <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                          href="https://klbtheme.com/machic/home-2/">Home 2</a></li>
+                          href="#home-2/">Home 2</a></li>
                       <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                          href="https://klbtheme.com/machic/home-3/">Home 3</a></li>
+                          href="#home-3/">Home 3</a></li>
                       <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                          href="https://klbtheme.com/machic/home-4/">Home 4</a></li>
+                          href="#home-4/">Home 4</a></li>
                       <li
                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1642 current_page_item">
-                        <a href="https://klbtheme.com/machic/home-5/">Home 5</a></li>
+                        <a href="#home-5/">Home 5</a></li>
                       <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                          href="https://klbtheme.com/machic/home-6/">Home 6</a></li>
+                          href="#home-6/">Home 6</a></li>
                     </ul>
                   </li>
                   <li class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                    <a href="https://klbtheme.com/machic/shop/">Shop</a>
+                    <a href="#shop/">Shop</a>
                     <ul class="sub-menu">
                       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
-                          href="https://klbtheme.com/machic/shop/">Shop Lists</a>
+                          href="#shop/">Shop Lists</a>
                         <ul class="sub-menu">
                           <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                              href="https://klbtheme.com/machic/shop/">Shop Default</a></li>
+                              href="#shop/">Shop Default</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?opt=right-sidebar">Shop Right Sidebar</a></li>
+                              href="#shop/?opt=right-sidebar">Shop Right Sidebar</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=5&amp;opt=wide">Shop Wide</a></li>
+                              href="#shop/?column=5&amp;opt=wide">Shop Wide</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=5&amp;opt=full-width">Filters Area</a></li>
+                              href="#shop/?column=5&amp;opt=full-width">Filters Area</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?shop_view=list_view">List Left Sidebar</a></li>
+                              href="#shop/?shop_view=list_view">List Left Sidebar</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?ft=load-more">Load More Button</a></li>
+                              href="#shop/?ft=load-more">Load More Button</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?ft=infinite">Infinite Scrolling</a></li>
+                              href="#shop/?ft=infinite">Infinite Scrolling</a></li>
                         </ul>
                       </li>
                       <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children"><a
-                          href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
+                          href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
                           Detail</a>
                         <ul class="sub-menu">
                           <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                              href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
+                              href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
                               Default</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                              href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/">Product
+                              href="#product/oneplus-8-pro-onyx-black-android-smartphone/">Product
                               Variable</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                              href="https://klbtheme.com/machic/product/samsung-galaxy-watch-active/">Product
+                              href="#product/samsung-galaxy-watch-active/">Product
                               Grouped</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                              href="https://klbtheme.com/machic/product/new-apple-iphone-12-128gb-4gb-ram-black/">Product
+                              href="#product/new-apple-iphone-12-128gb-4gb-ram-black/">Product
                               External</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
-                              href="https://klbtheme.com/machic/product/samsung-galaxy-watch-active-2-aluminum-smart-watch-black/">Product
+                              href="#product/samsung-galaxy-watch-active-2-aluminum-smart-watch-black/">Product
                               Downloadable</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/?ft=imgzoom">Zoom
+                              href="#product/oneplus-8-pro-onyx-black-android-smartphone/?ft=imgzoom">Zoom
                               Image</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/product/beats-studio3-wireless-headphones-matte-black/?ft=imgzoom">Product
+                              href="#product/beats-studio3-wireless-headphones-matte-black/?ft=imgzoom">Product
                               With Video</a></li>
                         </ul>
                       </li>
@@ -1452,19 +1452,19 @@
                           href="#">Shop Pages</a>
                         <ul class="sub-menu">
                           <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                              href="https://klbtheme.com/machic/cart/">Cart</a></li>
+                              href="#cart/">Cart</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                              href="https://klbtheme.com/machic/checkout/">Checkout</a></li>
+                              href="#checkout/">Checkout</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                              href="https://klbtheme.com/machic/my-account/">My account</a></li>
+                              href="#my-account/">My account</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                              href="https://klbtheme.com/machic/wishlist/">Wishlist</a></li>
+                              href="#wishlist/">Wishlist</a></li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                              href="https://klbtheme.com/machic/order-tracking/">Order Tracking</a></li>
+                              href="#order-tracking/">Order Tracking</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?featured=yes">Featured Products</a></li>
+                              href="#shop/?featured=yes">Featured Products</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp">Order
+                              href="#product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp">Order
                               on WhatsApp</a></li>
                         </ul>
                       </li>
@@ -1472,33 +1472,33 @@
                           href="#">Shop Layouts</a>
                         <ul class="sub-menu">
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=2">Two Columns</a></li>
+                              href="#shop/?column=2">Two Columns</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=3">Three Columns</a></li>
+                              href="#shop/?column=3">Three Columns</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=3&amp;opt=wide">Three Columns Wide</a></li>
+                              href="#shop/?column=3&amp;opt=wide">Three Columns Wide</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=4">Four Columns</a></li>
+                              href="#shop/?column=4">Four Columns</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=4&amp;opt=wide">Four Columns Wide</a></li>
+                              href="#shop/?column=4&amp;opt=wide">Four Columns Wide</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=5&amp;opt=wide">Five Columns Wide</a></li>
+                              href="#shop/?column=5&amp;opt=wide">Five Columns Wide</a></li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                              href="https://klbtheme.com/machic/shop/?column=6&amp;opt=wide">Six Columns Wide</a></li>
+                              href="#shop/?column=6&amp;opt=wide">Six Columns Wide</a></li>
                         </ul>
                       </li>
                     </ul>
                   </li>
                   <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                      href="https://klbtheme.com/machic/product-category/cell-phones/"><i
+                      href="#product-category/cell-phones/"><i
                         class="klbth-icon-smartphone"></i> Cell Phones</a></li>
                   <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                      href="https://klbtheme.com/machic/product-category/headphones/"><i
+                      href="#product-category/headphones/"><i
                         class="klbth-icon-headphones"></i> Headphones</a></li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                      href="https://klbtheme.com/machic/blog/">Blog</a></li>
+                      href="#blog/">Blog</a></li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                      href="https://klbtheme.com/machic/contact/">Contact</a></li>
+                      href="#contact/">Contact</a></li>
                 </ul>
               </nav><!-- site-menu -->
             </div><!-- column -->
@@ -1506,7 +1506,7 @@
             <div class="column align-center right">
 
               <div class="header-addons login-button">
-                <a href="https://klbtheme.com/machic/my-account/">
+                <a href="#my-account/">
                   <div class="header-addons-icon"><i class="klbth-icon-user-1"></i></div>
                   <div class="header-addons-text">
                     <div class="sub-text">Sign In</div>
@@ -1517,7 +1517,7 @@
 
 
               <div class="header-addons wishlist-button">
-                <a href="https://klbtheme.com/machic/wishlist/">
+                <a href="#wishlist/">
                   <div class="header-addons-icon">
                     <i class="klbth-icon-heart"></i>
                     <div class="button-count klbwl-wishlist-count">0</div>
@@ -1527,7 +1527,7 @@
 
 
               <div class="header-addons cart-button">
-                <a href="https://klbtheme.com/machic/cart/">
+                <a href="#cart/">
                   <div class="header-addons-icon">
                     <i class="klbth-icon-simple-cart"></i>
                     <div class="button-count cart-count">0</div>
@@ -1606,42 +1606,42 @@
                   <ul id="menu-sidebar-menu-1" class="departments-menu collapse">
                     <li
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children has-image column-1">
-                      <a href="https://klbtheme.com/machic/product-category/cell-phones/"><i
+                      <a href="#product-category/cell-phones/"><i
                           class="klbth-icon-smartphone"></i>Cell Phones</a>
                       <ul class="sub-menu"
                         style="background-image: url(https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-menu-3.png);">
                         <li
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children column-1">
-                          <a href="https://klbtheme.com/machic/product-category/cell-phones/">Cell Phones</a>
+                          <a href="#product-category/cell-phones/">Cell Phones</a>
                           <ul class="sub-menu">
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/phone-accessories/">Phone
+                                href="#product-category/cell-phones/phone-accessories/">Phone
                                 Accessories</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/phone-cases/">Phone
+                                href="#product-category/cell-phones/phone-cases/">Phone
                                 Cases</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/postpaid-phones/">Postpaid
+                                href="#product-category/cell-phones/postpaid-phones/">Postpaid
                                 Phones</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/unlocked-phones/">Unlocked
+                                href="#product-category/cell-phones/unlocked-phones/">Unlocked
                                 Phones</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/prepaid-phones/">Prepaid
+                                href="#product-category/cell-phones/prepaid-phones/">Prepaid
                                 Phones</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/prepaid-plans/">Prepaid
+                                href="#product-category/cell-phones/prepaid-plans/">Prepaid
                                 Plans</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/refurbished-phones/">Refurbished
+                                href="#product-category/cell-phones/refurbished-phones/">Refurbished
                                 Phones</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/straight-talk/">Straight
+                                href="#product-category/cell-phones/straight-talk/">Straight
                                 Talk</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/iphone/">iPhone</a></li>
+                                href="#product-category/cell-phones/iphone/">iPhone</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/samsung-galaxy/">Samsung
+                                href="#product-category/cell-phones/samsung-galaxy/">Samsung
                                 Galaxy</a></li>
                           </ul>
                         </li>
@@ -1649,38 +1649,38 @@
                     </li>
                     <li
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children has-image column-1">
-                      <a href="https://klbtheme.com/machic/product-category/computers-accessories/"><i
+                      <a href="#product-category/computers-accessories/"><i
                           class="klbth-icon-laptop"></i> Computers &amp; Accessories</a>
                       <ul class="sub-menu"
                         style="background-image: url(https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/10/computer-2.png);">
                         <li
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children column-1">
-                          <a href="https://klbtheme.com/machic/product-category/computers-accessories/">Computers &amp;
+                          <a href="#product-category/computers-accessories/">Computers &amp;
                             Accessories</a>
                           <ul class="sub-menu">
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/computer-components/">Computer
+                                href="#product-category/computers-accessories/computer-components/">Computer
                                 Components</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/computer-accessories/">Computer
+                                href="#product-category/computers-accessories/computer-accessories/">Computer
                                 Accessories</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/desktops/">Desktops</a>
+                                href="#product-category/computers-accessories/desktops/">Desktops</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/laptops/">Laptops</a>
+                                href="#product-category/computers-accessories/laptops/">Laptops</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/monitors/">Monitors</a>
+                                href="#product-category/computers-accessories/monitors/">Monitors</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/networking/">Networking</a>
+                                href="#product-category/computers-accessories/networking/">Networking</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/pc-gaming/">PC
+                                href="#product-category/computers-accessories/pc-gaming/">PC
                                 Gaming</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/computers-accessories/tablets/">Tablets</a>
+                                href="#product-category/computers-accessories/tablets/">Tablets</a>
                             </li>
                           </ul>
                         </li>
@@ -1688,36 +1688,36 @@
                     </li>
                     <li
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children column-1">
-                      <a href="https://klbtheme.com/machic/product-category/television-video/"><i
+                      <a href="#product-category/television-video/"><i
                           class="klbth-icon-screen"></i> Television &amp; Video</a>
                       <ul class="sub-menu">
                         <li
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children column-1">
-                          <a href="https://klbtheme.com/machic/product-category/television-video/">Television &amp;
+                          <a href="#product-category/television-video/">Television &amp;
                             Video</a>
                           <ul class="sub-menu">
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/hd-dvd-players/">HD
+                                href="#product-category/television-video/hd-dvd-players/">HD
                                 DVD Players</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/projection-screens/">Projection
+                                href="#product-category/television-video/projection-screens/">Projection
                                 Screens</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/projectors/">Projectors</a>
+                                href="#product-category/television-video/projectors/">Projectors</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/television-accessories/">Television
+                                href="#product-category/television-video/television-accessories/">Television
                                 Accessories</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/televisions/">Televisions</a>
+                                href="#product-category/television-video/televisions/">Televisions</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/tv-dvd-combos/">TV-DVD
+                                href="#product-category/television-video/tv-dvd-combos/">TV-DVD
                                 Combos</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/vcrs/">VCRs</a></li>
+                                href="#product-category/television-video/vcrs/">VCRs</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/television-video/video-glasses/">Video
+                                href="#product-category/television-video/video-glasses/">Video
                                 Glasses</a></li>
                           </ul>
                         </li>
@@ -1725,69 +1725,69 @@
                     </li>
                     <li
                       class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children has-image column-1">
-                      <a href="https://klbtheme.com/machic/product-category/smartwatches/"><i
+                      <a href="#product-category/smartwatches/"><i
                           class="klbth-icon-smartwatch"></i> Smartwatches</a>
                       <ul class="sub-menu"
                         style="background-image: url(https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-menu-2.png);">
                         <li
                           class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children column-1">
-                          <a href="https://klbtheme.com/machic/product-category/smartwatches/">Smartwatches</a>
+                          <a href="#product-category/smartwatches/">Smartwatches</a>
                           <ul class="sub-menu">
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/casio-watches/">Casio
+                                href="#product-category/smartwatches/casio-watches/">Casio
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/chronograph-watches/">Chronograph
+                                href="#product-category/smartwatches/chronograph-watches/">Chronograph
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/kids-watches/">Kids
+                                href="#product-category/smartwatches/kids-watches/">Kids
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/luxury-watches/">Luxury
+                                href="#product-category/smartwatches/luxury-watches/">Luxury
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/men/">Men Watches</a>
+                                href="#product-category/smartwatches/men/">Men Watches</a>
                             </li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/rolex-watches/">Rolex
+                                href="#product-category/smartwatches/rolex-watches/">Rolex
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/women-watches/">Women
+                                href="#product-category/smartwatches/women-watches/">Women
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/watch-brands/">Watch
+                                href="#product-category/smartwatches/watch-brands/">Watch
                                 Brands</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/timex-watches/">Timex
+                                href="#product-category/smartwatches/timex-watches/">Timex
                                 Watches</a></li>
                             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/sport-watches/">Sport
+                                href="#product-category/smartwatches/sport-watches/">Sport
                                 Watches</a></li>
                           </ul>
                         </li>
                       </ul>
                     </li>
                     <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                        href="https://klbtheme.com/machic/product-category/headphones/"><i
+                        href="#product-category/headphones/"><i
                           class="klbth-icon-headphones"></i> Headphones</a></li>
                     <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                        href="https://klbtheme.com/machic/product-category/camera-photo/"><i
+                        href="#product-category/camera-photo/"><i
                           class="klbth-icon-camera"></i> Camera &amp; Photo</a></li>
                     <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                        href="https://klbtheme.com/machic/product-category/video-games/"><i
+                        href="#product-category/video-games/"><i
                           class="klbth-icon-play-station"></i> Video Games</a></li>
                     <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-                        href="https://klbtheme.com/machic/product-category/sports-outdoors/"><i
+                        href="#product-category/sports-outdoors/"><i
                           class="klbth-icon-virtual-reality"></i> Sports &amp; Outdoors</a></li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                        href="https://klbtheme.com/machic/shop/?orderby=popularity"><i
+                        href="#shop/?orderby=popularity"><i
                           class="klbth-icon-data-transfer-up"></i> Best Sellers<span class="label danger">Save
                           %25</span></a></li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                        href="https://klbtheme.com/machic/shop/?featured=yes"><i
+                        href="#shop/?featured=yes"><i
                           class="klbth-icon-shopping-bag-arrow-up"></i> Top 100 Offers</a></li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                        href="https://klbtheme.com/machic/shop/"><i class="klbth-icon-timer"></i> New Arrivals</a></li>
+                        href="#shop/"><i class="klbth-icon-timer"></i> New Arrivals</a></li>
                   </ul>
                 </div><!-- site-departments-wrapper -->
               </div>
@@ -1797,7 +1797,7 @@
             <div class="column align-center right">
               <div class="header-form site-search">
                 <span>What are you looking for ?</span>
-                <form action="https://klbtheme.com/machic/" class="search-form" role="search" method="get"
+                <form action="#" class="search-form" role="search" method="get"
                   id="searchform">
                   <div class="input-group">
                     <div class="input-search-addon"><select class="form-select custom-width" name="product_cat"
@@ -1836,7 +1836,7 @@
             <nav class="site-menu horizontal">
               <ul id="menu-top-right-2" class="menu">
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2233"><a
-                    href="https://klbtheme.com/machic/order-tracking/">Order Tracking</a></li>
+                    href="#order-tracking/">Order Tracking</a></li>
                 <li
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2176">
                   <a href="#">English</a>
@@ -1881,7 +1881,7 @@
         </div><!-- column -->
         <div class="column center">
           <div class="site-brand">
-            <a href="https://klbtheme.com/machic/" title="Machic &#8211; Electronics Store eCommerce Theme">
+            <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
               <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/logo-dark.png"
                 alt="Machic &#8211; Electronics Store eCommerce Theme">
             </a>
@@ -1889,7 +1889,7 @@
         </div><!-- column -->
         <div class="column right">
           <div class="header-addons cart-button">
-            <a href="https://klbtheme.com/machic/cart/">
+            <a href="#cart/">
               <div class="header-addons-icon">
                 <i class="klbth-icon-simple-cart"></i>
                 <div class="button-count cart-count">0</div>
@@ -1976,14 +1976,14 @@
                                   <div class="entry-description">
                                     <p>Big screens in incredibly slim designs in your hand.</p>
                                   </div>
-                                  <div class="entry-button"><a href="https://klbtheme.com/machic/shop/"
+                                  <div class="entry-button"><a href="#shop/"
                                       class="btn small rounded link-color">Shop Now</a></div>
                                 </div>
                               </div>
                               <div class="banner-image"><img decoding="async"
                                   src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-6.jpg"
                                   alt="slider"></div><a class="overlay-link"
-                                href="https://klbtheme.com/machic/shop/"></a>
+                                href="#shop/"></a>
                             </div>
                           </div>
                           <div class="swiper-slide">
@@ -1997,14 +1997,14 @@
                                     <p>Big screens in incredibly slim designs in your hand.</p>
                                   </div>
                                   <div class="entry-button"><a
-                                      href="https://klbtheme.com/machic/shop/?column=5&#038;opt=full-width"
+                                      href="#shop/?column=5&#038;opt=full-width"
                                       class="btn small rounded link-color">Shop Now</a></div>
                                 </div>
                               </div>
                               <div class="banner-image"><img decoding="async"
                                   src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-9.jpg"
                                   alt="slider"></div><a class="overlay-link"
-                                href="https://klbtheme.com/machic/shop/?column=5&#038;opt=full-width"></a>
+                                href="#shop/?column=5&#038;opt=full-width"></a>
                             </div>
                           </div>
                           <div class="swiper-slide">
@@ -2016,14 +2016,14 @@
                                   <div class="entry-description">
                                     <p>Big screens in incredibly slim designs in your hand.</p>
                                   </div>
-                                  <div class="entry-button"><a href="https://klbtheme.com/machic/shop/?ft=infinite"
+                                  <div class="entry-button"><a href="#shop/?ft=infinite"
                                       class="btn small rounded link-color">Shop Now</a></div>
                                 </div>
                               </div>
                               <div class="banner-image"><img decoding="async"
                                   src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-10.jpg"
                                   alt="slider"></div><a class="overlay-link"
-                                href="https://klbtheme.com/machic/shop/?ft=infinite"></a>
+                                href="#shop/?ft=infinite"></a>
                             </div>
                           </div>
                         </div>
@@ -2059,14 +2059,14 @@
                                 <p>Don&#039;t miss the last opportunity.</p>
                               </div><!-- entry-description -->
                               <div class="entry-button"><a
-                                  href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/"
+                                  href="#product/apple-iphone-11-pro-max-64gb-silver/"
                                   class="btn small rounded link-color">Shop Now</a></div><!-- entry-button -->
                             </div><!-- banner-content-wrapper -->
                           </div><!-- banner-content -->
                           <div class="banner-image"><img decoding="async"
                               src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-25.jpg"
                               alt="Apple Iphone 11"></div><a
-                            href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/"
+                            href="#product/apple-iphone-11-pro-max-64gb-silver/"
                             class="overlay-link"></a>
                         </div><!-- banner -->
                       </div><!-- widget-body -->
@@ -2110,7 +2110,7 @@
                                   <div class="banner-image"><img decoding="async"
                                       src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-22.jpg"
                                       alt="banner"></div><a
-                                    href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/"
+                                    href="#product/oneplus-8-pro-onyx-black-android-smartphone/"
                                     class="overlay-link"></a>
                                 </div><!-- banner -->
                               </div><!-- module-wrapper -->
@@ -2146,7 +2146,7 @@
                                   <div class="banner-image"><img decoding="async"
                                       src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-23.jpg"
                                       alt="banner"></div><a
-                                    href="https://klbtheme.com/machic/product/echo-dot-4th-gen-2020-release-smart-speaker/"
+                                    href="#product/echo-dot-4th-gen-2020-release-smart-speaker/"
                                     class="overlay-link"></a>
                                 </div><!-- banner -->
                               </div><!-- module-wrapper -->
@@ -2172,14 +2172,14 @@
                                 <p>Don&#039;t miss the last opportunity.</p>
                               </div>
                               <div class="entry-button"><a
-                                  href="https://klbtheme.com/machic/product/beats-studio3-wireless-headphones-matte-black/"
+                                  href="#product/beats-studio3-wireless-headphones-matte-black/"
                                   class="btn small rounded link-color">Shop Now</a></div>
                             </div>
                           </div>
                           <div class="banner-image"><img decoding="async"
                               src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-24.jpg"
                               alt="Momentum 3 Headphone"></div><a
-                            href="https://klbtheme.com/machic/product/beats-studio3-wireless-headphones-matte-black/"
+                            href="#product/beats-studio3-wireless-headphones-matte-black/"
                             class="overlay-link"></a>
                         </div>
                       </div>
@@ -2205,7 +2205,7 @@
                     <div class="site-module products-module">
                       <div class="module-header">
                         <h4 class="entry-title">Best Sellers</h4><a
-                          href="https://klbtheme.com/machic/shop/?orderby=popularity&#038;paged=1" class="btn link">View
+                          href="#shop/?orderby=popularity&#038;paged=1" class="btn link">View
                           All <i class="klbth-icon-right-arrow"></i></a>
                       </div>
                       <div class="module-wrapper">
@@ -2216,17 +2216,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">11%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">
+                                    href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/single-1-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple 10.9-inch iPad Air Wi-Fi Cellular 64GB"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-521" data-product_id="521"
                                       data-product_title="Apple 10.9-inch iPad Air Wi-Fi Cellular 64GB">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=521" class="klbcp-btn klbcp-btn-521"
@@ -2237,7 +2237,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Apple
+                                      href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Apple
                                       10.9-inch iPad Air Wi-Fi Cellular 64GB</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -2282,17 +2282,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">9%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-11-64gb-fully-unlocked-yellow/">
+                                    href="#product/apple-iphone-11-64gb-fully-unlocked-yellow/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-2-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 64GB Yellow Fully Unlocked"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-500" data-product_id="500"
                                       data-product_title="Apple iPhone 11 64GB Yellow Fully Unlocked">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=500" class="klbcp-btn klbcp-btn-500"
@@ -2303,7 +2303,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-11-64gb-fully-unlocked-yellow/">Apple
+                                      href="#product/apple-iphone-11-64gb-fully-unlocked-yellow/">Apple
                                       iPhone 11 64GB Yellow Fully Unlocked</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -2348,11 +2348,11 @@
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1"
                                       style="background-color: #00a046;">Top Product</span></div><a
-                                    href="https://klbtheme.com/machic/product/asus-vivobook-15-thin-and-light-laptop-15-6-fhd-display/"><img
+                                    href="#product/asus-vivobook-15-thin-and-light-laptop-15-6-fhd-display/"><img
                                       decoding="async"
                                       src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-3-400x400.jpg"
                                       alt="ASUS VivoBook 15 Thin and Light Laptop 15.6” FHD Display"></a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-462" data-product_id="462"
                                       data-product_title="ASUS VivoBook 15 Thin and Light Laptop 15.6” FHD Display">Add
                                       to wishlist</a><a href="?add-to-compare=462" class="klbcp-btn klbcp-btn-462"
@@ -2364,7 +2364,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/asus-vivobook-15-thin-and-light-laptop-15-6-fhd-display/">ASUS
+                                      href="#product/asus-vivobook-15-thin-and-light-laptop-15-6-fhd-display/">ASUS
                                       VivoBook 15 Thin and Light Laptop 15.6” FHD Display</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -2409,14 +2409,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">32%</span></div><a
-                                    href="https://klbtheme.com/machic/product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">
+                                    href="#product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-4-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Cubitt Smart Watch CT2S Waterproof Fitness Tracker"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-408" data-product_id="408"
                                       data-product_title="Cubitt Smart Watch CT2S Waterproof Fitness Tracker">Add to
                                       wishlist</a><a href="?add-to-compare=408" class="klbcp-btn klbcp-btn-408"
@@ -2428,7 +2428,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">Cubitt
+                                      href="#product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">Cubitt
                                       Smart Watch CT2S Waterproof Fitness Tracker</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -2472,11 +2472,11 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">32%</span></div><a
-                                    href="https://klbtheme.com/machic/product/dragon-touch-max10-tablet-android-10-0-os/"><img
+                                    href="#product/dragon-touch-max10-tablet-android-10-0-os/"><img
                                       decoding="async"
                                       src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-6-400x400.jpg"
                                       alt="Dragon Touch Max10 Tablet Android 10.0 OS"></a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-400" data-product_id="400"
                                       data-product_title="Dragon Touch Max10 Tablet Android 10.0 OS">Add to
                                       wishlist</a><a href="?add-to-compare=400" class="klbcp-btn klbcp-btn-400"
@@ -2487,7 +2487,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/dragon-touch-max10-tablet-android-10-0-os/">Dragon
+                                      href="#product/dragon-touch-max10-tablet-android-10-0-os/">Dragon
                                       Touch Max10 Tablet Android 10.0 OS</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -2532,14 +2532,14 @@
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1"
                                       style="background-color: #ff5c00;">Super Price</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-11-inch-ipad-pro-2021-wi-fi-128gb/">
+                                    href="#product/apple-11-inch-ipad-pro-2021-wi-fi-128gb/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-15-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/ipad2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple 11-inch iPad Pro (2021) Wi-Fi 128GB"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-516" data-product_id="516"
                                       data-product_title="Apple 11-inch iPad Pro (2021) Wi-Fi 128GB">Add to
                                       wishlist</a><a href="?add-to-compare=516" class="klbcp-btn klbcp-btn-516"
@@ -2550,7 +2550,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-11-inch-ipad-pro-2021-wi-fi-128gb/">Apple
+                                      href="#product/apple-11-inch-ipad-pro-2021-wi-fi-128gb/">Apple
                                       11-inch iPad Pro (2021) Wi-Fi 128GB</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -2596,14 +2596,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">22%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-mwp22am-a-airpods-pro/">
+                                    href="#product/apple-mwp22am-a-airpods-pro/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/head1-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/head2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/head2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple MWP22AM/A AirPods Pro"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-505" data-product_id="505"
                                       data-product_title="Apple MWP22AM/A AirPods Pro">Add to wishlist</a><a
                                       href="?add-to-compare=505" class="klbcp-btn klbcp-btn-505" data-id="505"
@@ -2614,7 +2614,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-mwp22am-a-airpods-pro/">Apple
+                                      href="#product/apple-mwp22am-a-airpods-pro/">Apple
                                       MWP22AM/A AirPods Pro</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -2656,14 +2656,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">13%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/">
+                                    href="#product/apple-iphone-11-pro-max-64gb-silver/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-8-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max (64GB) &#8211; Silver"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-494" data-product_id="494"
                                       data-product_title="Apple iPhone 11 Pro Max (64GB) - Silver">Add to wishlist</a><a
                                       href="?add-to-compare=494" class="klbcp-btn klbcp-btn-494" data-id="494"
@@ -2674,7 +2674,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/">Apple
+                                      href="#product/apple-iphone-11-pro-max-64gb-silver/">Apple
                                       iPhone 11 Pro Max (64GB) &#8211; Silver</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -2719,14 +2719,14 @@
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1"
                                       style="background-color: #00a046;">Top Product</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-mhxh3tu-a-magsafe-charger/">
+                                    href="#product/apple-mhxh3tu-a-magsafe-charger/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-9-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple MHXH3TU/A MagSafe Charger"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-473" data-product_id="473"
                                       data-product_title="Apple MHXH3TU/A MagSafe Charger">Add to wishlist</a><a
                                       href="?add-to-compare=473" class="klbcp-btn klbcp-btn-473" data-id="473"
@@ -2737,7 +2737,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-mhxh3tu-a-magsafe-charger/">Apple
+                                      href="#product/apple-mhxh3tu-a-magsafe-charger/">Apple
                                       MHXH3TU/A MagSafe Charger</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -2779,14 +2779,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">7%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">
+                                    href="#product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-12-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max 256GB Gold Fully Unlocked"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-490" data-product_id="490"
                                       data-product_title="Apple iPhone 11 Pro Max 256GB Gold Fully Unlocked">Add to
                                       wishlist</a><a href="?add-to-compare=490" class="klbcp-btn klbcp-btn-490"
@@ -2798,7 +2798,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">Apple
+                                      href="#product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">Apple
                                       iPhone 11 Pro Max 256GB Gold Fully Unlocked</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -2840,17 +2840,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">11%</span></div><a
-                                    href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/">
+                                    href="#product/oneplus-8-pro-onyx-black-android-smartphone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-10-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="OnePlus 8 Pro Onyx Black Android Smartphone"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-302" data-product_id="302"
                                       data-product_title="OnePlus 8 Pro Onyx Black Android Smartphone">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=302" class="klbcp-btn klbcp-btn-302"
@@ -2861,7 +2861,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/">OnePlus
+                                      href="#product/oneplus-8-pro-onyx-black-android-smartphone/">OnePlus
                                       8 Pro Onyx Black Android Smartphone</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -2876,7 +2876,7 @@
                                         aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span
                                               class="woocommerce-Price-currencySymbol">&#36;</span>859.00</bdi></span></ins><span
                                         class="screen-reader-text">Current price is: &#036;859.00.</span></span><a
-                                      href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/"
+                                      href="#product/oneplus-8-pro-onyx-black-android-smartphone/"
                                       data-quantity="1" class="button product_type_variable add_to_cart_button"
                                       data-product_id="302" data-product_sku="YHE4M7"
                                       aria-label="Select options for &ldquo;OnePlus 8 Pro Onyx Black Android Smartphone&rdquo;"
@@ -2905,14 +2905,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">7%</span></div><a
-                                    href="https://klbtheme.com/machic/product/samsung-galaxy-a52-5g-android-cell-phone/">
+                                    href="#product/samsung-galaxy-a52-5g-android-cell-phone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-11-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Samsung Galaxy A52 5G Android Cell Phone"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-276" data-product_id="276"
                                       data-product_title="Samsung Galaxy A52 5G Android Cell Phone">Add to
                                       wishlist</a><a href="?add-to-compare=276" class="klbcp-btn klbcp-btn-276"
@@ -2923,7 +2923,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/samsung-galaxy-a52-5g-android-cell-phone/">Samsung
+                                      href="#product/samsung-galaxy-a52-5g-android-cell-phone/">Samsung
                                       Galaxy A52 5G Android Cell Phone</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -2984,24 +2984,24 @@
                       <div class="klb-product-category col col-12 col-lg-4">
                         <div class="site-module module-category-list style-1">
                           <div class="category-image"><a
-                              href="https://klbtheme.com/machic/product-category/cell-phones/"><img decoding="async"
+                              href="#product-category/cell-phones/"><img decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-1.jpg"
                                 alt="Cell Phones"></a></div>
                           <div class="category-detail">
                             <h3 class="category-name"><a
-                                href="https://klbtheme.com/machic/product-category/cell-phones/">Cell Phones</a></h3>
+                                href="#product-category/cell-phones/">Cell Phones</a></h3>
                             <ul>
-                              <li><a href="https://klbtheme.com/machic/product-category/cell-phones/iphone/">iPhone</a>
+                              <li><a href="#product-category/cell-phones/iphone/">iPhone</a>
                               </li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/cell-phones/phone-accessories/">Phone
+                                  href="#product-category/cell-phones/phone-accessories/">Phone
                                   Accessories</a></li>
-                              <li><a href="https://klbtheme.com/machic/product-category/cell-phones/phone-cases/">Phone
+                              <li><a href="#product-category/cell-phones/phone-cases/">Phone
                                   Cases</a></li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/cell-phones/postpaid-phones/">Postpaid
+                                  href="#product-category/cell-phones/postpaid-phones/">Postpaid
                                   Phones</a></li>
-                            </ul><a href="https://klbtheme.com/machic/product-category/cell-phones/"
+                            </ul><a href="#product-category/cell-phones/"
                               class="btn link">All Cell Phones <i class="klbth-icon-right-arrow"></i></a>
                           </div><!-- category-detail -->
                         </div>
@@ -3009,26 +3009,26 @@
                       <div class="klb-product-category col col-12 col-lg-4">
                         <div class="site-module module-category-list style-1">
                           <div class="category-image"><a
-                              href="https://klbtheme.com/machic/product-category/headphones/"><img decoding="async"
+                              href="#product-category/headphones/"><img decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-2.jpg"
                                 alt="Headphones"></a></div>
                           <div class="category-detail">
                             <h3 class="category-name"><a
-                                href="https://klbtheme.com/machic/product-category/headphones/">Headphones</a></h3>
+                                href="#product-category/headphones/">Headphones</a></h3>
                             <ul>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/headphones/noise-canceling/">Noise
+                                  href="#product-category/headphones/noise-canceling/">Noise
                                   Canceling</a></li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/headphones/over-ear/">Over-EAR</a>
+                                  href="#product-category/headphones/over-ear/">Over-EAR</a>
                               </li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/headphones/premium-headphones/">Premium
+                                  href="#product-category/headphones/premium-headphones/">Premium
                                   Headphones</a></li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/headphones/sports-fitness/">Sports
+                                  href="#product-category/headphones/sports-fitness/">Sports
                                   &amp; Fitness</a></li>
-                            </ul><a href="https://klbtheme.com/machic/product-category/headphones/" class="btn link">All
+                            </ul><a href="#product-category/headphones/" class="btn link">All
                               Headphones <i class="klbth-icon-right-arrow"></i></a>
                           </div><!-- category-detail -->
                         </div>
@@ -3036,26 +3036,26 @@
                       <div class="klb-product-category col col-12 col-lg-4">
                         <div class="site-module module-category-list style-1">
                           <div class="category-image"><a
-                              href="https://klbtheme.com/machic/product-category/smartwatches/"><img decoding="async"
+                              href="#product-category/smartwatches/"><img decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-5.jpg"
                                 alt="Smartwatches"></a></div>
                           <div class="category-detail">
                             <h3 class="category-name"><a
-                                href="https://klbtheme.com/machic/product-category/smartwatches/">Smartwatches</a></h3>
+                                href="#product-category/smartwatches/">Smartwatches</a></h3>
                             <ul>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/smartwatches/sport-watches/">Sport
+                                  href="#product-category/smartwatches/sport-watches/">Sport
                                   Watches</a></li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/smartwatches/timex-watches/">Timex
+                                  href="#product-category/smartwatches/timex-watches/">Timex
                                   Watches</a></li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/smartwatches/watch-brands/">Watch
+                                  href="#product-category/smartwatches/watch-brands/">Watch
                                   Brands</a></li>
                               <li><a
-                                  href="https://klbtheme.com/machic/product-category/smartwatches/women-watches/">Women
+                                  href="#product-category/smartwatches/women-watches/">Women
                                   Watches</a></li>
-                            </ul><a href="https://klbtheme.com/machic/product-category/smartwatches/"
+                            </ul><a href="#product-category/smartwatches/"
                               class="btn link">All Smartwatches <i class="klbth-icon-right-arrow"></i></a>
                           </div><!-- category-detail -->
                         </div>
@@ -3082,7 +3082,7 @@
                     <div class="site-module list-products">
                       <div class="module-header">
                         <h4 class="entry-title">Trending Products</h4><a
-                          href="https://klbtheme.com/machic/shop/?featured=yes" class="btn link">View All <i
+                          href="#shop/?featured=yes" class="btn link">View All <i
                             class="klbth-icon-right-arrow"></i></a>
                       </div><!-- module-header -->
                       <div class="module-wrapper">
@@ -3093,14 +3093,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">32%</span></div><a
-                                    href="https://klbtheme.com/machic/product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">
+                                    href="#product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-4-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Cubitt Smart Watch CT2S Waterproof Fitness Tracker"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-408" data-product_id="408"
                                       data-product_title="Cubitt Smart Watch CT2S Waterproof Fitness Tracker">Add to
                                       wishlist</a><a href="?add-to-compare=408" class="klbcp-btn klbcp-btn-408"
@@ -3112,7 +3112,7 @@
                                 </div><!-- thumbnail-wrapper -->
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">Cubitt
+                                      href="#product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">Cubitt
                                       Smart Watch CT2S Waterproof Fitness Tracker</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -3162,17 +3162,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">15%</span></div><a
-                                    href="https://klbtheme.com/machic/product/new-apple-iphone-12-128gb-4gb-ram-white/">
+                                    href="#product/new-apple-iphone-12-128gb-4gb-ram-white/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/newapple1-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/newapple2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="New Apple iPhone 12 (128GB &#8211; 4GB RAM) &#8211; White"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-320" data-product_id="320"
                                       data-product_title="New Apple iPhone 12 (128GB - 4GB RAM) - White">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=320" class="klbcp-btn klbcp-btn-320"
@@ -3183,7 +3183,7 @@
                                 </div><!-- thumbnail-wrapper -->
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/new-apple-iphone-12-128gb-4gb-ram-white/">New
+                                      href="#product/new-apple-iphone-12-128gb-4gb-ram-white/">New
                                       Apple iPhone 12 (128GB &#8211; 4GB RAM) &#8211; White</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -3233,14 +3233,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">17%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-watch-series-3-gps-42mm-sport-band/">
+                                    href="#product/apple-watch-series-3-gps-42mm-sport-band/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/series1-400x400.jpg"
                                         data-hover-slides="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/series2-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple Watch Series 3 GPS &#8211; 42mm &#8211; Sport Band"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-465" data-product_id="465"
                                       data-product_title="Apple Watch Series 3 GPS - 42mm - Sport Band">Add to
                                       wishlist</a><a href="?add-to-compare=465" class="klbcp-btn klbcp-btn-465"
@@ -3251,7 +3251,7 @@
                                 </div><!-- thumbnail-wrapper -->
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-watch-series-3-gps-42mm-sport-band/">Apple
+                                      href="#product/apple-watch-series-3-gps-42mm-sport-band/">Apple
                                       Watch Series 3 GPS &#8211; 42mm &#8211; Sport Band</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -3301,17 +3301,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">21%</span></div><a
-                                    href="https://klbtheme.com/machic/product/garmin-vivo-smart-3-activity-tracker-large/">
+                                    href="#product/garmin-vivo-smart-3-activity-tracker-large/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/garmin1-400x400.jpeg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/garmin2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/garmin3-400x400.jpeg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/garmin2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/garmin3-400x400.jpeg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Garmin Vivo smart 3 Activity Tracker – Large"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-378" data-product_id="378"
                                       data-product_title="Garmin Vivo smart 3 Activity Tracker – Large">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=378" class="klbcp-btn klbcp-btn-378"
@@ -3322,7 +3322,7 @@
                                 </div><!-- thumbnail-wrapper -->
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/garmin-vivo-smart-3-activity-tracker-large/">Garmin
+                                      href="#product/garmin-vivo-smart-3-activity-tracker-large/">Garmin
                                       Vivo smart 3 Activity Tracker – Large</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -3373,17 +3373,17 @@
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1"
                                       style="background-color: #ff5c00;">Super Price</span></div><a
-                                    href="https://klbtheme.com/machic/product/echo-dot-4th-gen-2020-release-smart-speaker/">
+                                    href="#product/echo-dot-4th-gen-2020-release-smart-speaker/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/echo1-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/echo2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo5-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo6-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/echo2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo5-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo6-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Echo Dot (4th Gen, 2020 release) | Smart speaker"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-393" data-product_id="393"
                                       data-product_title="Echo Dot (4th Gen, 2020 release) | Smart speaker">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=393" class="klbcp-btn klbcp-btn-393"
@@ -3394,7 +3394,7 @@
                                 </div><!-- thumbnail-wrapper -->
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/echo-dot-4th-gen-2020-release-smart-speaker/">Echo
+                                      href="#product/echo-dot-4th-gen-2020-release-smart-speaker/">Echo
                                       Dot (4th Gen, 2020 release) | Smart speaker</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -3444,17 +3444,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">9%</span></div><a
-                                    href="https://klbtheme.com/machic/product/bose-noise-cancelling-wireless-bluetooth/">
+                                    href="#product/bose-noise-cancelling-wireless-bluetooth/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/noise3-400x400.jpeg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/noise2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise4-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise5-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise1-400x400.jpeg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/noise2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise4-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise5-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise1-400x400.jpeg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Bose Noise Cancelling Wireless Bluetooth"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-440" data-product_id="440"
                                       data-product_title="Bose Noise Cancelling Wireless Bluetooth">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=440" class="klbcp-btn klbcp-btn-440"
@@ -3465,7 +3465,7 @@
                                 </div><!-- thumbnail-wrapper -->
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/bose-noise-cancelling-wireless-bluetooth/">Bose
+                                      href="#product/bose-noise-cancelling-wireless-bluetooth/">Bose
                                       Noise Cancelling Wireless Bluetooth</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -3540,13 +3540,13 @@
                               <div class="entry-description">
                                 <p>Don&#039;t miss the last opportunity.</p>
                               </div>
-                              <div class="entry-button"><a href="https://klbtheme.com/machic/shop/"
+                              <div class="entry-button"><a href="#shop/"
                                   class="btn small rounded link-color">Shop Now</a></div>
                             </div>
                           </div>
                           <div class="banner-image"><img decoding="async"
                               src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-13.jpg"
-                              alt="Computer"></div><a href="https://klbtheme.com/machic/shop/" class="overlay-link"></a>
+                              alt="Computer"></div><a href="#shop/" class="overlay-link"></a>
                         </div>
                       </div>
                     </div>
@@ -3573,14 +3573,14 @@
                                 <p>Don&#039;t miss the last opportunity.</p>
                               </div>
                               <div class="entry-button"><a
-                                  href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/"
+                                  href="#product/oneplus-8-pro-onyx-black-android-smartphone/"
                                   class="btn small rounded link-color">Shop Now</a></div>
                             </div>
                           </div>
                           <div class="banner-image"><img decoding="async"
                               src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-14.jpg"
                               alt="Home Speaker"></div><a
-                            href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/"
+                            href="#product/oneplus-8-pro-onyx-black-android-smartphone/"
                             class="overlay-link"></a>
                         </div>
                       </div>
@@ -3606,7 +3606,7 @@
                     <div class="site-module klb-custom-title">
                       <div class="module-header">
                         <h4 class="entry-title">Best Sellers</h4><a
-                          href="https://klbtheme.com/machic/shop/?orderby=popularity&#038;paged=1" class="btn link">View
+                          href="#shop/?orderby=popularity&#038;paged=1" class="btn link">View
                           All <i class="klbth-icon-right-arrow"></i></a>
                       </div><!-- module-header -->
                     </div>
@@ -3669,17 +3669,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">11%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">
+                                    href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/single-1-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple 10.9-inch iPad Air Wi-Fi Cellular 64GB"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-521" data-product_id="521"
                                       data-product_title="Apple 10.9-inch iPad Air Wi-Fi Cellular 64GB">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=521" class="klbcp-btn klbcp-btn-521"
@@ -3690,7 +3690,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Apple
+                                      href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Apple
                                       10.9-inch iPad Air Wi-Fi Cellular 64GB</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -3735,17 +3735,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">9%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-11-64gb-fully-unlocked-yellow/">
+                                    href="#product/apple-iphone-11-64gb-fully-unlocked-yellow/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-2-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 64GB Yellow Fully Unlocked"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-500" data-product_id="500"
                                       data-product_title="Apple iPhone 11 64GB Yellow Fully Unlocked">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=500" class="klbcp-btn klbcp-btn-500"
@@ -3756,7 +3756,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-11-64gb-fully-unlocked-yellow/">Apple
+                                      href="#product/apple-iphone-11-64gb-fully-unlocked-yellow/">Apple
                                       iPhone 11 64GB Yellow Fully Unlocked</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -3800,14 +3800,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">13%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/">
+                                    href="#product/apple-iphone-11-pro-max-64gb-silver/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-8-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max (64GB) &#8211; Silver"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-494" data-product_id="494"
                                       data-product_title="Apple iPhone 11 Pro Max (64GB) - Silver">Add to wishlist</a><a
                                       href="?add-to-compare=494" class="klbcp-btn klbcp-btn-494" data-id="494"
@@ -3818,7 +3818,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-64gb-silver/">Apple
+                                      href="#product/apple-iphone-11-pro-max-64gb-silver/">Apple
                                       iPhone 11 Pro Max (64GB) &#8211; Silver</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -3863,14 +3863,14 @@
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1"
                                       style="background-color: #00a046;">Top Product</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-mhxh3tu-a-magsafe-charger/">
+                                    href="#product/apple-mhxh3tu-a-magsafe-charger/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-9-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple MHXH3TU/A MagSafe Charger"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-473" data-product_id="473"
                                       data-product_title="Apple MHXH3TU/A MagSafe Charger">Add to wishlist</a><a
                                       href="?add-to-compare=473" class="klbcp-btn klbcp-btn-473" data-id="473"
@@ -3881,7 +3881,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-mhxh3tu-a-magsafe-charger/">Apple
+                                      href="#product/apple-mhxh3tu-a-magsafe-charger/">Apple
                                       MHXH3TU/A MagSafe Charger</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span
@@ -3923,14 +3923,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">7%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">
+                                    href="#product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-12-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max 256GB Gold Fully Unlocked"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-490" data-product_id="490"
                                       data-product_title="Apple iPhone 11 Pro Max 256GB Gold Fully Unlocked">Add to
                                       wishlist</a><a href="?add-to-compare=490" class="klbcp-btn klbcp-btn-490"
@@ -3942,7 +3942,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">Apple
+                                      href="#product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">Apple
                                       iPhone 11 Pro Max 256GB Gold Fully Unlocked</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -3984,17 +3984,17 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge style-1 onsale">11%</span></div><a
-                                    href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/">
+                                    href="#product/oneplus-8-pro-onyx-black-android-smartphone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-10-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="OnePlus 8 Pro Onyx Black Android Smartphone"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-302" data-product_id="302"
                                       data-product_title="OnePlus 8 Pro Onyx Black Android Smartphone">Add to
-                                      wishlist</a><a href="https://klbtheme.com/machic/shop/?featured=yes"
+                                      wishlist</a><a href="#shop/?featured=yes"
                                       class="most-comments"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/images/featured.png"
                                         alt="featured"></a><a href="?add-to-compare=302" class="klbcp-btn klbcp-btn-302"
@@ -4005,7 +4005,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/">OnePlus
+                                      href="#product/oneplus-8-pro-onyx-black-android-smartphone/">OnePlus
                                       8 Pro Onyx Black Android Smartphone</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 3.00 out of 5"><span
@@ -4020,7 +4020,7 @@
                                         aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span
                                               class="woocommerce-Price-currencySymbol">&#36;</span>859.00</bdi></span></ins><span
                                         class="screen-reader-text">Current price is: &#036;859.00.</span></span><a
-                                      href="https://klbtheme.com/machic/product/oneplus-8-pro-onyx-black-android-smartphone/"
+                                      href="#product/oneplus-8-pro-onyx-black-android-smartphone/"
                                       data-quantity="1" class="button product_type_variable add_to_cart_button"
                                       data-product_id="302" data-product_sku="YHE4M7"
                                       aria-label="Select options for &ldquo;OnePlus 8 Pro Onyx Black Android Smartphone&rdquo;"
@@ -4049,14 +4049,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">7%</span></div><a
-                                    href="https://klbtheme.com/machic/product/samsung-galaxy-a52-5g-android-cell-phone/">
+                                    href="#product/samsung-galaxy-a52-5g-android-cell-phone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-11-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Samsung Galaxy A52 5G Android Cell Phone"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-276" data-product_id="276"
                                       data-product_title="Samsung Galaxy A52 5G Android Cell Phone">Add to
                                       wishlist</a><a href="?add-to-compare=276" class="klbcp-btn klbcp-btn-276"
@@ -4067,7 +4067,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/samsung-galaxy-a52-5g-android-cell-phone/">Samsung
+                                      href="#product/samsung-galaxy-a52-5g-android-cell-phone/">Samsung
                                       Galaxy A52 5G Android Cell Phone</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -4109,14 +4109,14 @@
                               <div class="product-content">
                                 <div class="thumbnail-wrapper">
                                   <div class="product-badges"><span class="badge  onsale">13%</span></div><a
-                                    href="https://klbtheme.com/machic/product/apple-iphone-x-64gb-silver-fully-unlocked/">
+                                    href="#product/apple-iphone-x-64gb-silver-fully-unlocked/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-19-400x400.jpg"
-                                        data-hover-slides="https://klbtheme.com/machic/wp-content/uploads/2021/09/ix2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix4-400x400.jpg"
+                                        data-hover-slides="#wp-content/uploads/2021/09/ix2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone X 64GB Silver Fully Unlocked"></div>
                                   </a>
-                                  <div class="product-buttons"><a href="https://klbtheme.com/machic/wishlist/"
+                                  <div class="product-buttons"><a href="#wishlist/"
                                       class="wishlist klbwl-btn klbwl-btn-357" data-product_id="357"
                                       data-product_title="Apple iPhone X 64GB Silver Fully Unlocked">Add to
                                       wishlist</a><a href="?add-to-compare=357" class="klbcp-btn klbcp-btn-357"
@@ -4127,7 +4127,7 @@
                                 </div>
                                 <div class="content-wrapper">
                                   <h3 class="product-title"><a
-                                      href="https://klbtheme.com/machic/product/apple-iphone-x-64gb-silver-fully-unlocked/">Apple
+                                      href="#product/apple-iphone-x-64gb-silver-fully-unlocked/">Apple
                                       iPhone X 64GB Silver Fully Unlocked</a></h3>
                                   <div class="product-rating">
                                     <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span
@@ -4192,7 +4192,7 @@
                             <div class="banner-price">from <span>$79.00</span></div><!-- banner-price -->
                             <p>Don&#039;t miss this special opportunity today.</p>
                           </div><!-- banner-details -->
-                          <div class="banner-button"><a href="https://klbtheme.com/machic/shop/?ft=infinite"
+                          <div class="banner-button"><a href="#shop/?ft=infinite"
                               class="btn small rounded link-color">Shop Now</a></div>
                         </div><!-- banner-inner -->
                       </div>
@@ -4218,27 +4218,27 @@
                     <div class="site-module logos-module">
                       <div class="module-body">
                         <div class="site-brands column-6 opacity">
-                          <div class="brand-item"><a href="https://klbtheme.com/machic/shop/"><img decoding="async"
+                          <div class="brand-item"><a href="#shop/"><img decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/1.png"
                                 alt="client"></a></div>
-                          <div class="brand-item"><a href="https://klbtheme.com/machic/shop/?filter_brands=asus"><img
+                          <div class="brand-item"><a href="#shop/?filter_brands=asus"><img
                                 decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/2.png"
                                 alt="client"></a></div>
-                          <div class="brand-item"><a href="https://klbtheme.com/machic/shop/?opt=right-sidebar"><img
+                          <div class="brand-item"><a href="#shop/?opt=right-sidebar"><img
                                 decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/3.png"
                                 alt="client"></a></div>
-                          <div class="brand-item"><a href="https://klbtheme.com/machic/shop/?filter_brands=samsung"><img
+                          <div class="brand-item"><a href="#shop/?filter_brands=samsung"><img
                                 decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/4.png"
                                 alt="client"></a></div>
                           <div class="brand-item"><a
-                              href="https://klbtheme.com/machic/shop/?column=5&#038;opt=wide"><img decoding="async"
+                              href="#shop/?column=5&#038;opt=wide"><img decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/5.png"
                                 alt="client"></a></div>
                           <div class="brand-item"><a
-                              href="https://klbtheme.com/machic/shop/?column=5&#038;opt=full-width"><img
+                              href="#shop/?column=5&#038;opt=full-width"><img
                                 decoding="async"
                                 src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/6.png"
                                 alt="client"></a></div>
@@ -4303,28 +4303,28 @@
                 <ul id="menu-make-money-with-us" class="menu">
                   <li id="menu-item-2171"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2171"><a
-                      href="https://klbtheme.com/machic/about-us/">Sell on Machic</a></li>
+                      href="#about-us/">Sell on Machic</a></li>
                   <li id="menu-item-2172"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2172"><a
-                      href="https://klbtheme.com/machic/contact/">Sell Your Services on Machic</a></li>
+                      href="#contact/">Sell Your Services on Machic</a></li>
                   <li id="menu-item-2173"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2173"><a
-                      href="https://klbtheme.com/machic/contact/">Sell on Machic Business</a></li>
+                      href="#contact/">Sell on Machic Business</a></li>
                   <li id="menu-item-2174"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174"><a
-                      href="https://klbtheme.com/machic/about-us/">Sell Your Apps on Machic</a></li>
+                      href="#about-us/">Sell Your Apps on Machic</a></li>
                   <li id="menu-item-2175"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2175"><a
-                      href="https://klbtheme.com/machic/contact/">Become an Affilate</a></li>
+                      href="#contact/">Become an Affilate</a></li>
                   <li id="menu-item-2179"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2179"><a
-                      href="https://klbtheme.com/machic/contact/">Advertise Your Products</a></li>
+                      href="#contact/">Advertise Your Products</a></li>
                   <li id="menu-item-2180"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2180"><a
-                      href="https://klbtheme.com/machic/terms-and-conditions/">Sell-Publish with Us</a></li>
+                      href="#terms-and-conditions/">Sell-Publish with Us</a></li>
                   <li id="menu-item-2181"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2181"><a
-                      rel="privacy-policy" href="https://klbtheme.com/machic/privacy-policy/">Become an Machic
+                      rel="privacy-policy" href="#privacy-policy/">Become an Machic
                       Vendor</a></li>
                 </ul>
               </div>
@@ -4334,26 +4334,26 @@
             <div class="klbfooterwidget widget woocommerce widget_product_categories">
               <h4 class="widget-title">Product Categories</h4>
               <ul class="product-categories">
-                <li class="cat-item cat-item-29"><a href="https://klbtheme.com/machic/product-category/apple/">Apple</a>
+                <li class="cat-item cat-item-29"><a href="#product-category/apple/">Apple</a>
                 </li>
                 <li class="cat-item cat-item-40"><a
-                    href="https://klbtheme.com/machic/product-category/camera-photo/">Camera &amp; Photo</a></li>
+                    href="#product-category/camera-photo/">Camera &amp; Photo</a></li>
                 <li class="cat-item cat-item-42 cat-parent"><a
-                    href="https://klbtheme.com/machic/product-category/cell-phones/">Cell Phones</a></li>
+                    href="#product-category/cell-phones/">Cell Phones</a></li>
                 <li class="cat-item cat-item-44 cat-parent"><a
-                    href="https://klbtheme.com/machic/product-category/computers-accessories/">Computers &amp;
+                    href="#product-category/computers-accessories/">Computers &amp;
                     Accessories</a></li>
                 <li class="cat-item cat-item-51"><a
-                    href="https://klbtheme.com/machic/product-category/headphones/">Headphones</a></li>
+                    href="#product-category/headphones/">Headphones</a></li>
                 <li class="cat-item cat-item-90"><a
-                    href="https://klbtheme.com/machic/product-category/smartwatches/">Smartwatches</a></li>
+                    href="#product-category/smartwatches/">Smartwatches</a></li>
                 <li class="cat-item cat-item-93"><a
-                    href="https://klbtheme.com/machic/product-category/sports-outdoors/">Sports &amp; Outdoors</a></li>
+                    href="#product-category/sports-outdoors/">Sports &amp; Outdoors</a></li>
                 <li class="cat-item cat-item-96"><a
-                    href="https://klbtheme.com/machic/product-category/television-video/">Television &amp; Video</a>
+                    href="#product-category/television-video/">Television &amp; Video</a>
                 </li>
                 <li class="cat-item cat-item-103"><a
-                    href="https://klbtheme.com/machic/product-category/video-games/">Video Games</a></li>
+                    href="#product-category/video-games/">Video Games</a></li>
               </ul>
             </div>
           </div><!-- col -->
@@ -4364,28 +4364,28 @@
                 <ul id="menu-let-us-help-you" class="menu">
                   <li id="menu-item-2220"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220"><a
-                      href="https://klbtheme.com/machic/my-account/">Your Account</a></li>
+                      href="#my-account/">Your Account</a></li>
                   <li id="menu-item-2182"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2182"><a
-                      href="https://klbtheme.com/machic/my-account/orders/">Your Orders</a></li>
+                      href="#my-account/orders/">Your Orders</a></li>
                   <li id="menu-item-2525"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2525"><a
-                      href="https://klbtheme.com/machic/refund_returns/">Returns &#038; Replacements</a></li>
+                      href="#refund_returns/">Returns &#038; Replacements</a></li>
                   <li id="menu-item-2221"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2221"><a
-                      href="https://klbtheme.com/machic/refund_returns/">Shipping Rates &#038; Policies</a></li>
+                      href="#refund_returns/">Shipping Rates &#038; Policies</a></li>
                   <li id="menu-item-2524"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2524"><a
-                      href="https://klbtheme.com/machic/refund_returns/">Refund and Returns Policy</a></li>
+                      href="#refund_returns/">Refund and Returns Policy</a></li>
                   <li id="menu-item-2223"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2223">
-                    <a rel="privacy-policy" href="https://klbtheme.com/machic/privacy-policy/">Privacy Policy</a></li>
+                    <a rel="privacy-policy" href="#privacy-policy/">Privacy Policy</a></li>
                   <li id="menu-item-2523"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2523"><a
-                      href="https://klbtheme.com/machic/terms-and-conditions/">Terms and Conditions</a></li>
+                      href="#terms-and-conditions/">Terms and Conditions</a></li>
                   <li id="menu-item-2185"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2185"><a
-                      href="https://klbtheme.com/machic/contact/">Help Center</a></li>
+                      href="#contact/">Help Center</a></li>
                 </ul>
               </div>
             </div>
@@ -4397,25 +4397,25 @@
                 <ul id="menu-get-to-know-us" class="menu">
                   <li id="menu-item-2186"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2186"><a
-                      href="https://klbtheme.com/machic/contact/">Careers</a></li>
+                      href="#contact/">Careers</a></li>
                   <li id="menu-item-2508"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2508"><a
-                      href="https://klbtheme.com/machic/about-us/">About Machic</a></li>
+                      href="#about-us/">About Machic</a></li>
                   <li id="menu-item-2188"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2188"><a
-                      href="https://klbtheme.com/machic/about-us/">Inverstor Relations</a></li>
+                      href="#about-us/">Inverstor Relations</a></li>
                   <li id="menu-item-2189"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2189"><a
-                      href="https://klbtheme.com/machic/about-us/">Machic Devices</a></li>
+                      href="#about-us/">Machic Devices</a></li>
                   <li id="menu-item-2190"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2190"><a
-                      href="https://klbtheme.com/machic/about-us/">Customer reviews</a></li>
+                      href="#about-us/">Customer reviews</a></li>
                   <li id="menu-item-2513"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2513">
-                    <a rel="privacy-policy" href="https://klbtheme.com/machic/privacy-policy/">Privacy Policy</a></li>
+                    <a rel="privacy-policy" href="#privacy-policy/">Privacy Policy</a></li>
                   <li id="menu-item-2509"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2509"><a
-                      href="https://klbtheme.com/machic/contact/">Contact Us</a></li>
+                      href="#contact/">Contact Us</a></li>
                 </ul>
               </div>
             </div>
@@ -4431,7 +4431,7 @@
 
             <div class="site-details">
               <div class="site-brand">
-                <a href="https://klbtheme.com/machic/" title="Machic &#8211; Electronics Store eCommerce Theme">
+                <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
                   <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/logo-dark.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                 </a>
@@ -4453,31 +4453,31 @@
 
             <div class="site-details">
               <ul class="tags">
-                <li><a href="https://klbtheme.com/machic/product-tag/apple/">apple </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/apple-watch/">Apple Watch </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/beats/">Beats </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/camera/">Camera </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/game-controller/">Game Controller </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/hd/">HD </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/htc/">HTC </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/htc-one/">HTC one </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/imac/">iMac </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/ipad/">Ipad </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/ipad-4-16gb/">Ipad 4 16Gb </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/ipad-mini/">Ipad Mini </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/keyboard/">Keyboard </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/lenovo/">Lenovo </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/m8/">M8 </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/mackbook-pro-m1/">Mackbook Pro M1 </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/mouse/">Mouse </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/samsung/">Samsung </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/samsung-galaxy-m11/">Samsung Galaxy M11 </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/samsung-galaxy-m31/">Samsung Galaxy M31 </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/samsung-galaxy-s5-64gb/">Samsung Galaxy S5 - 64gb
+                <li><a href="#product-tag/apple/">apple </a></li>
+                <li><a href="#product-tag/apple-watch/">Apple Watch </a></li>
+                <li><a href="#product-tag/beats/">Beats </a></li>
+                <li><a href="#product-tag/camera/">Camera </a></li>
+                <li><a href="#product-tag/game-controller/">Game Controller </a></li>
+                <li><a href="#product-tag/hd/">HD </a></li>
+                <li><a href="#product-tag/htc/">HTC </a></li>
+                <li><a href="#product-tag/htc-one/">HTC one </a></li>
+                <li><a href="#product-tag/imac/">iMac </a></li>
+                <li><a href="#product-tag/ipad/">Ipad </a></li>
+                <li><a href="#product-tag/ipad-4-16gb/">Ipad 4 16Gb </a></li>
+                <li><a href="#product-tag/ipad-mini/">Ipad Mini </a></li>
+                <li><a href="#product-tag/keyboard/">Keyboard </a></li>
+                <li><a href="#product-tag/lenovo/">Lenovo </a></li>
+                <li><a href="#product-tag/m8/">M8 </a></li>
+                <li><a href="#product-tag/mackbook-pro-m1/">Mackbook Pro M1 </a></li>
+                <li><a href="#product-tag/mouse/">Mouse </a></li>
+                <li><a href="#product-tag/samsung/">Samsung </a></li>
+                <li><a href="#product-tag/samsung-galaxy-m11/">Samsung Galaxy M11 </a></li>
+                <li><a href="#product-tag/samsung-galaxy-m31/">Samsung Galaxy M31 </a></li>
+                <li><a href="#product-tag/samsung-galaxy-s5-64gb/">Samsung Galaxy S5 - 64gb
                   </a></li>
-                <li><a href="https://klbtheme.com/machic/product-tag/samsung-galaxy-tab-4/">Samsung Galaxy Tab 4 </a>
+                <li><a href="#product-tag/samsung-galaxy-tab-4/">Samsung Galaxy Tab 4 </a>
                 </li>
-                <li><a href="https://klbtheme.com/machic/product-tag/wireless-speaker/">Wireless Speaker </a></li>
+                <li><a href="#product-tag/wireless-speaker/">Wireless Speaker </a></li>
               </ul>
             </div><!-- site-details -->
 
@@ -4497,7 +4497,7 @@
                 </p>
               </div>
               <div class="site-payment-logos">
-                <a href="https://klbtheme.com/machic/shop/">
+                <a href="#shop/">
                   <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/10/payment.png" alt="payment">
                 </a>
               </div>
@@ -4516,7 +4516,7 @@
 
   <div class="klb-mobile-search">
     <div class="header-form site-search">
-      <form action="https://klbtheme.com/machic/" class="search-form" role="search" method="get" id="searchform">
+      <form action="#" class="search-form" role="search" method="get" id="searchform">
         <div class="input-group">
           <div class="input-search-addon"><select class="form-select custom-width" name="product_cat" id="categories">
               <option class="select-value" value="" selected="selected">All</option>
@@ -4545,7 +4545,7 @@
       <nav class="mobile-menu">
         <ul>
           <li>
-            <a href="https://klbtheme.com/machic/shop/" class="store">
+            <a href="#shop/" class="store">
               <i class="klbth-icon-shop"></i>
               <span>Store</span>
             </a>
@@ -4561,7 +4561,7 @@
 
 
           <li>
-            <a href="https://klbtheme.com/machic/my-account/" class="user">
+            <a href="#my-account/" class="user">
               <i class="klbth-icon-user-1"></i>
               <span>Account</span>
             </a>
