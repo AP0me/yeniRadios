@@ -4432,7 +4432,7 @@
             <div class="site-details">
               <div class="site-brand">
                 <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-                  <img src="" alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: hue-rotate(170deg); brightness(100%);" >
+                  <img src="" alt="OmeY" style="filter: hue-rotate(170deg); brightness(100%);" >
                 </a>
               </div>
 
