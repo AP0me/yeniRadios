@@ -885,9 +885,8 @@
         <div class="column left">
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/logo-light.png"
-                alt="Machic &#8211; Electronics Store eCommerce Theme">
-
+              <img src="./img/n-logo.png" alt="Machic &#8211; El
+              ">
             </a>
           </div><!-- site-brand -->
         </div><!-- column -->
@@ -1372,8 +1371,9 @@
 
             <div class="column align-center left">
               <div class="site-brand">
-                <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-                  <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/logo-light.png"
+                <a href="#" title="Machic &#8211; El
+                ">
+                  <img src="./img/n-logo.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                 </a>
               </div><!-- site-brand -->
@@ -1548,7 +1548,7 @@
                         <div class="empty-icon">
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                             <path d="M460 504H52c-24 0-44-20-44-44V138.4h496v320.8c0 24.8-20 44.8-44 44.8z"
-                              fill="#ffbd27" />
+                              fill="#2769FF" />
                             <path d="M52 472c-6.4 0-12-5.6-12-12V170.4h432v288.8c0 6.4-5.6 12-12 12H52v.8z"
                               fill="#fff" />
                             <path fill="#e1e6e9" d="M18.4 8h462.4v130.4H18.4z" />
@@ -1910,7 +1910,7 @@
                     <div class="empty-icon">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                         <path d="M460 504H52c-24 0-44-20-44-44V138.4h496v320.8c0 24.8-20 44.8-44 44.8z"
-                          fill="#ffbd27" />
+                          fill="#2769FF" />
                         <path d="M52 472c-6.4 0-12-5.6-12-12V170.4h432v288.8c0 6.4-5.6 12-12 12H52v.8z" fill="#fff" />
                         <path fill="#e1e6e9" d="M18.4 8h462.4v130.4H18.4z" />
                         <g fill="#fff">
