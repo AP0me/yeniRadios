@@ -4432,8 +4432,8 @@
             <div class="site-details">
               <div class="site-brand">
                 <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-                  <img src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/logo-dark.png"
-                    alt="Machic &#8211; Electronics Store eCommerce Theme">
+                <img src="./img/n-logo.png"
+                    alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: grayscale(100%) invert(100%) brightness(1000)" >
                 </a>
               </div>
 
