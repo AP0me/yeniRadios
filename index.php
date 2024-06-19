@@ -2037,150 +2037,95 @@
           </div>
         </section>
         <section
-          class="elementor-section elementor-top-section elementor-element elementor-element-601d773 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-          data-id="601d773" data-element_type="section">
+          class="elementor-section elementor-top-section elementor-element elementor-element-fd14a75 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+          data-id="fd14a75" data-element_type="section">
           <div class="elementor-container elementor-column-gap-extended">
             <div
-              class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-30cac48"
-              data-id="30cac48" data-element_type="column">
+              class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e9dd08c"
+              data-id="e9dd08c" data-element_type="column">
               <div class="elementor-widget-wrap elementor-element-populated">
                 <div
-                  class="elementor-element elementor-element-877ebe7 elementor-widget elementor-widget-machic-banner-box"
-                  data-id="877ebe7" data-element_type="widget" data-widget_type="machic-banner-box.default">
+                  class="elementor-element elementor-element-5412ea8 elementor-widget elementor-widget-machic-product-categories"
+                  data-id="5412ea8" data-element_type="widget" data-widget_type="machic-product-categories.default">
                   <div class="elementor-widget-container">
-                    <div class="widget">
-                      <div class="widget-body">
-                        <div class="banner dark align-top medium vertical">
-                          <div class="banner-content">
-                            <div class="banner-content-wrapper">
-                              <h6 class="entry-subtitle style-2">Super Discount</h6>
-                              <h3 class="entry-title">Apple Iphone 11</h3>
-                              <div class="entry-description">
-                                <p>Don&#039;t miss the last opportunity.</p>
-                              </div><!-- entry-description -->
-                              <div class="entry-button"><a
-                                  href="#product/apple-iphone-11-pro-max-64gb-silver/"
-                                  class="btn small rounded link-color">Shop Now</a></div><!-- entry-button -->
-                            </div><!-- banner-content-wrapper -->
-                          </div><!-- banner-content -->
-                          <div class="banner-image"><img decoding="async"
-                              src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-25.jpg"
-                              alt="Apple Iphone 11"></div><a
-                            href="#product/apple-iphone-11-pro-max-64gb-silver/"
-                            class="overlay-link"></a>
-                        </div><!-- banner -->
-                      </div><!-- widget-body -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-955a5b8"
-              data-id="955a5b8" data-element_type="column">
-              <div class="elementor-widget-wrap elementor-element-populated">
-                <section
-                  class="elementor-section elementor-inner-section elementor-element elementor-element-2cadb02 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                  data-id="2cadb02" data-element_type="section">
-                  <div class="elementor-container elementor-column-gap-no">
-                    <div
-                      class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c8ec15d"
-                      data-id="c8ec15d" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-b2a425e elementor-widget elementor-widget-machic-banner-box2"
-                          data-id="b2a425e" data-element_type="widget" data-widget_type="machic-banner-box2.default">
-                          <div class="elementor-widget-container">
-                            <div class="site-module banner-module">
-                              <div class="module-wrapper">
-                                <div class="banner dark align-center price-banner ">
-                                  <div class="banner-content">
-                                    <div class="banner-content-wrapper">
-                                      <div class="entry-description">
-                                        <p>Maecenas non erat</p>
-                                      </div><!-- entry-description -->
-                                      <h3 class="entry-title">OnePlus Pro</h3>
-                                      <div class="banner-price-content">
-                                        <p>Weekend Discount</p><span class="price"><del aria-hidden="true"><span
-                                              class="woocommerce-Price-amount amount"><bdi>$959.00</bdi></span></del><ins><span
-                                              class="woocommerce-Price-amount amount"><bdi>$859.00</bdi></span></ins></span><!-- price -->
-                                      </div><!-- banner-price-content -->
-                                    </div><!-- banner-content-wrapper -->
-                                  </div><!-- banner-content -->
-                                  <div class="banner-image"><img decoding="async"
-                                      src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-22.jpg"
-                                      alt="banner"></div><a
-                                    href="#product/oneplus-8-pro-onyx-black-android-smartphone/"
-                                    class="overlay-link"></a>
-                                </div><!-- banner -->
-                              </div><!-- module-wrapper -->
-                            </div>
-                          </div>
+                    <div class="row">
+                      <div class="klb-product-category col col-12 col-lg-4">
+                        <div class="site-module module-category-list style-1">
+                          <div class="category-image"><a
+                              href="#product-category/cell-phones/"><img decoding="async"
+                                src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-1.jpg"
+                                alt="Cell Phones"></a></div>
+                          <div class="category-detail">
+                            <h3 class="category-name"><a
+                                href="#product-category/cell-phones/">Cell Phones</a></h3>
+                            <ul>
+                              <li><a href="#product-category/cell-phones/iphone/">iPhone</a>
+                              </li>
+                              <li><a
+                                  href="#product-category/cell-phones/phone-accessories/">Phone
+                                  Accessories</a></li>
+                              <li><a href="#product-category/cell-phones/phone-cases/">Phone
+                                  Cases</a></li>
+                              <li><a
+                                  href="#product-category/cell-phones/postpaid-phones/">Postpaid
+                                  Phones</a></li>
+                            </ul><a href="#product-category/cell-phones/"
+                              class="btn link">All Cell Phones <i class="klbth-icon-right-arrow"></i></a>
+                          </div><!-- category-detail -->
                         </div>
                       </div>
-                    </div>
-                    <div
-                      class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7a47744"
-                      data-id="7a47744" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-e10954e elementor-widget elementor-widget-machic-banner-box2"
-                          data-id="e10954e" data-element_type="widget" data-widget_type="machic-banner-box2.default">
-                          <div class="elementor-widget-container">
-                            <div class="site-module banner-module">
-                              <div class="module-wrapper">
-                                <div class="banner dark align-center price-banner ">
-                                  <div class="banner-content">
-                                    <div class="banner-content-wrapper">
-                                      <div class="entry-description">
-                                        <p>Maecenas non erat</p>
-                                      </div><!-- entry-description -->
-                                      <h3 class="entry-title">Echo Dot</h3>
-                                      <div class="banner-price-content">
-                                        <p>Weekend Discount</p><span class="price"><del aria-hidden="true"><span
-                                              class="woocommerce-Price-amount amount"><bdi>$79.00</bdi></span></del><ins><span
-                                              class="woocommerce-Price-amount amount"><bdi>$49.00</bdi></span></ins></span><!-- price -->
-                                      </div><!-- banner-price-content -->
-                                    </div><!-- banner-content-wrapper -->
-                                  </div><!-- banner-content -->
-                                  <div class="banner-image"><img decoding="async"
-                                      src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-23.jpg"
-                                      alt="banner"></div><a
-                                    href="#product/echo-dot-4th-gen-2020-release-smart-speaker/"
-                                    class="overlay-link"></a>
-                                </div><!-- banner -->
-                              </div><!-- module-wrapper -->
-                            </div>
-                          </div>
+                      <div class="klb-product-category col col-12 col-lg-4">
+                        <div class="site-module module-category-list style-1">
+                          <div class="category-image"><a
+                              href="#product-category/headphones/"><img decoding="async"
+                                src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-2.jpg"
+                                alt="Headphones"></a></div>
+                          <div class="category-detail">
+                            <h3 class="category-name"><a
+                                href="#product-category/headphones/">Headphones</a></h3>
+                            <ul>
+                              <li><a
+                                  href="#product-category/headphones/noise-canceling/">Noise
+                                  Canceling</a></li>
+                              <li><a
+                                  href="#product-category/headphones/over-ear/">Over-EAR</a>
+                              </li>
+                              <li><a
+                                  href="#product-category/headphones/premium-headphones/">Premium
+                                  Headphones</a></li>
+                              <li><a
+                                  href="#product-category/headphones/sports-fitness/">Sports
+                                  &amp; Fitness</a></li>
+                            </ul><a href="#product-category/headphones/" class="btn link">All
+                              Headphones <i class="klbth-icon-right-arrow"></i></a>
+                          </div><!-- category-detail -->
                         </div>
                       </div>
-                    </div>
-                  </div>
-                </section>
-                <div
-                  class="elementor-element elementor-element-9e218ff elementor-widget elementor-widget-machic-banner-box"
-                  data-id="9e218ff" data-element_type="widget" data-widget_type="machic-banner-box.default">
-                  <div class="elementor-widget-container">
-                    <div class="site-module banner-module">
-                      <div class="module-wrapper">
-                        <div class="banner dark align-center medium bordered x1">
-                          <div class="banner-content">
-                            <div class="banner-content-wrapper">
-                              <h6 class="entry-subtitle style-2">Weekend Discount</h6>
-                              <h3 class="entry-title">Momentum 3 Headphone</h3>
-                              <div class="entry-description">
-                                <p>Don&#039;t miss the last opportunity.</p>
-                              </div>
-                              <div class="entry-button"><a
-                                  href="#product/beats-studio3-wireless-headphones-matte-black/"
-                                  class="btn small rounded link-color">Shop Now</a></div>
-                            </div>
-                          </div>
-                          <div class="banner-image"><img decoding="async"
-                              src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/banner-24.jpg"
-                              alt="Momentum 3 Headphone"></div><a
-                            href="#product/beats-studio3-wireless-headphones-matte-black/"
-                            class="overlay-link"></a>
+                      <div class="klb-product-category col col-12 col-lg-4">
+                        <div class="site-module module-category-list style-1">
+                          <div class="category-image"><a
+                              href="#product-category/smartwatches/"><img decoding="async"
+                                src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-5.jpg"
+                                alt="Smartwatches"></a></div>
+                          <div class="category-detail">
+                            <h3 class="category-name"><a
+                                href="#product-category/smartwatches/">Smartwatches</a></h3>
+                            <ul>
+                              <li><a
+                                  href="#product-category/smartwatches/sport-watches/">Sport
+                                  Watches</a></li>
+                              <li><a
+                                  href="#product-category/smartwatches/timex-watches/">Timex
+                                  Watches</a></li>
+                              <li><a
+                                  href="#product-category/smartwatches/watch-brands/">Watch
+                                  Brands</a></li>
+                              <li><a
+                                  href="#product-category/smartwatches/women-watches/">Women
+                                  Watches</a></li>
+                            </ul><a href="#product-category/smartwatches/"
+                              class="btn link">All Smartwatches <i class="klbth-icon-right-arrow"></i></a>
+                          </div><!-- category-detail -->
                         </div>
                       </div>
                     </div>
@@ -2959,105 +2904,6 @@
                             </div>
                             <div class="product-content-fade"></div>
                           </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section
-          class="elementor-section elementor-top-section elementor-element elementor-element-fd14a75 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-          data-id="fd14a75" data-element_type="section">
-          <div class="elementor-container elementor-column-gap-extended">
-            <div
-              class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e9dd08c"
-              data-id="e9dd08c" data-element_type="column">
-              <div class="elementor-widget-wrap elementor-element-populated">
-                <div
-                  class="elementor-element elementor-element-5412ea8 elementor-widget elementor-widget-machic-product-categories"
-                  data-id="5412ea8" data-element_type="widget" data-widget_type="machic-product-categories.default">
-                  <div class="elementor-widget-container">
-                    <div class="row">
-                      <div class="klb-product-category col col-12 col-lg-4">
-                        <div class="site-module module-category-list style-1">
-                          <div class="category-image"><a
-                              href="#product-category/cell-phones/"><img decoding="async"
-                                src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-1.jpg"
-                                alt="Cell Phones"></a></div>
-                          <div class="category-detail">
-                            <h3 class="category-name"><a
-                                href="#product-category/cell-phones/">Cell Phones</a></h3>
-                            <ul>
-                              <li><a href="#product-category/cell-phones/iphone/">iPhone</a>
-                              </li>
-                              <li><a
-                                  href="#product-category/cell-phones/phone-accessories/">Phone
-                                  Accessories</a></li>
-                              <li><a href="#product-category/cell-phones/phone-cases/">Phone
-                                  Cases</a></li>
-                              <li><a
-                                  href="#product-category/cell-phones/postpaid-phones/">Postpaid
-                                  Phones</a></li>
-                            </ul><a href="#product-category/cell-phones/"
-                              class="btn link">All Cell Phones <i class="klbth-icon-right-arrow"></i></a>
-                          </div><!-- category-detail -->
-                        </div>
-                      </div>
-                      <div class="klb-product-category col col-12 col-lg-4">
-                        <div class="site-module module-category-list style-1">
-                          <div class="category-image"><a
-                              href="#product-category/headphones/"><img decoding="async"
-                                src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-2.jpg"
-                                alt="Headphones"></a></div>
-                          <div class="category-detail">
-                            <h3 class="category-name"><a
-                                href="#product-category/headphones/">Headphones</a></h3>
-                            <ul>
-                              <li><a
-                                  href="#product-category/headphones/noise-canceling/">Noise
-                                  Canceling</a></li>
-                              <li><a
-                                  href="#product-category/headphones/over-ear/">Over-EAR</a>
-                              </li>
-                              <li><a
-                                  href="#product-category/headphones/premium-headphones/">Premium
-                                  Headphones</a></li>
-                              <li><a
-                                  href="#product-category/headphones/sports-fitness/">Sports
-                                  &amp; Fitness</a></li>
-                            </ul><a href="#product-category/headphones/" class="btn link">All
-                              Headphones <i class="klbth-icon-right-arrow"></i></a>
-                          </div><!-- category-detail -->
-                        </div>
-                      </div>
-                      <div class="klb-product-category col col-12 col-lg-4">
-                        <div class="site-module module-category-list style-1">
-                          <div class="category-image"><a
-                              href="#product-category/smartwatches/"><img decoding="async"
-                                src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/category-5.jpg"
-                                alt="Smartwatches"></a></div>
-                          <div class="category-detail">
-                            <h3 class="category-name"><a
-                                href="#product-category/smartwatches/">Smartwatches</a></h3>
-                            <ul>
-                              <li><a
-                                  href="#product-category/smartwatches/sport-watches/">Sport
-                                  Watches</a></li>
-                              <li><a
-                                  href="#product-category/smartwatches/timex-watches/">Timex
-                                  Watches</a></li>
-                              <li><a
-                                  href="#product-category/smartwatches/watch-brands/">Watch
-                                  Brands</a></li>
-                              <li><a
-                                  href="#product-category/smartwatches/women-watches/">Women
-                                  Watches</a></li>
-                            </ul><a href="#product-category/smartwatches/"
-                              class="btn link">All Smartwatches <i class="klbth-icon-right-arrow"></i></a>
-                          </div><!-- category-detail -->
                         </div>
                       </div>
                     </div>
