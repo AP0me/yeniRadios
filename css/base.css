@@ -5635,7 +5635,10 @@ button.swiper-pagination-bullet {
   justify-content: center;
   font-size: 1.5rem;
   width: 2.25rem;
-  height: 2.25rem
+  height: 2.25rem;
+}
+.header-addons-icon{
+  color: white;
 }
 
 .site-header .header-addons-icon i {
