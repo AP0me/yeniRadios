@@ -1,0 +1,170 @@
+@keyframes klbcp-rotate {
+  100% {
+    transform: rotate(360deg)
+  }
+}
+
+a.klbcp-adding:after {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -8px;
+  transition: opacity .2s ease;
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgb(161 161 161 / 40%);
+  border-left-color: #000;
+  border-radius: 50%;
+  vertical-align: middle;
+  opacity: 1;
+  animation: klbcp-rotate 450ms infinite linear;
+  left: 50%;
+  margin-left: -8px
+}
+
+.klbcp-adding:before {
+  opacity: 0
+}
+
+.klbcp-message {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999989;
+  background: rgba(0, 0, 0, .7);
+  opacity: 0;
+  font-size: 14px;
+  visibility: hidden;
+  -webkit-transition: opacity 0.3s;
+  transition: opacity 0.3s;
+  box-sizing: border-box
+}
+
+.klbcp-message.klbcp-show {
+  opacity: 1;
+  visibility: visible
+}
+
+.klbcp-message-inner {
+  width: 100%;
+  max-width: 360px;
+  height: auto;
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+  -webkit-transform: translate3d(-50%, -50%, 0);
+  display: flex;
+  flex-direction: column;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  overflow: hidden;
+  padding: 40px;
+  background-color: #fff;
+  text-align: center
+}
+
+.klbcp-message a.btn {
+  justify-content: center;
+  margin-top: 10px
+}
+
+a.klbcp-btn {
+  position: relative
+}
+
+a.klbcp-btn:before {
+  font-family: "klbtheme";
+  font-style: normal;
+  font-weight: 400;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: .2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: '\e86b';
+  font-size: .875rem
+}
+
+a.klbcp-btn.klbcp-btn-added:before {
+  content: '\e851'
+}
+
+span.klbcp-remove {
+  cursor: pointer
+}
+
+.klbcp_table td:first-child {
+  border-left: 0
+}
+
+.klbcp_table tr:first-child td {
+  border-top: none
+}
+
+.klbcp_table .product-rating {
+  display: table-row
+}
+
+.klbcp_table td:last-child {
+  border-right: 0
+}
+
+.klbcp_table .product-add_to_cart p {
+  margin: 0
+}
+
+.klbcp_table .product-add_to_cart a.button {
+  font-size: .875rem;
+  line-height: 2.1875rem;
+  height: 2.1875rem;
+  color: #FFF;
+  background-color: var(--color-primary)
+}
+
+.klbcp-list .cart-empty-page .empty-icon {
+  font-size: 7rem;
+  margin-bottom: 0
+}
+
+.klbcp_table tr th,
+.klbcp_table tr td {
+  padding: .75rem;
+  vertical-align: middle
+}
+
+.klbcp_table .add_to_cart_inline a.button i {
+  display: none
+}
+
+.klbcp_table .product-add_to_cart p {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+  align-items: center
+}
+
+.klbcp_table .product-name a {
+  color: currentcolor;
+  font-weight: 500
+}
+
+.klbcp_table {
+  font-size: .875rem
+}

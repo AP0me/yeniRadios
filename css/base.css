@@ -5,8 +5,8 @@
   --color-main-text: #021523;
   --color-text-light: #818ea0;
   --color-primary: #041e42;
-  --color-secondary: #0066cc;
-  --color-link: #0070dc;
+  --color-secondary: #febd69;
+  --color-link: #febd69;
   --color-form-border: #d9dde3;
   --color-form-placeholder: #9aa5b3;
   --color-theme-danger: #ef262c;
@@ -17,7 +17,8 @@
   --color-theme-light: #f2f3f5;
   --color-product-fade-border: #e0e5ea;
   --color-shop-button: #00a046;
-  --color-shop-button-active: #037535
+  --color-shop-button-active: #037535;
+  --color-lighter-dark-blue: #232f3e;
 }
 
 :root {
@@ -3449,7 +3450,7 @@ h6 {
 }
 
 .border-yellow {
-  border-color: #0066cc !important
+  border-color: var(--color-secondary) !important
 }
 
 .overlay-link {
@@ -4423,8 +4424,8 @@ input[type=submit],
   text-decoration: none;
   padding: 0 .9375rem;
   color: #fff;
-  background-color: var(--color-primary);
-  border-color: var(--color-primary);
+  background-color: var(--color-secondary);
+  border-color: var(--color-secondary);
   border-radius: var(--size-form-radius);
   -webkit-transition: all 0.2s cubic-bezier(.28, .12, .22, 1);
   transition: all 0.2s cubic-bezier(.28, .12, .22, 1)
@@ -5679,7 +5680,7 @@ button.swiper-pagination-bullet {
   top: 2px;
   right: -3px;
   color: #021523;
-  background-color: #0066cc;
+  background-color: var(--color-secondary) ;
   border-radius: 50%
 }
 
@@ -6284,21 +6285,21 @@ button.swiper-pagination-bullet {
 }
 
 .site-header .custom-color-dark .site-menu .menu>li>a:hover {
-  color: #0066cc
+  color: var(--color-secondary) 
 }
 
 .site-header .custom-color-dark .site-menu .menu>li.menu-item-has-children:hover>a {
-  color: #0066cc
+  color: var(--color-secondary) 
 }
 
 .site-header .custom-color-dark .site-departments-wrapper>a {
-  background-color: #0066cc !important
+  background-color: var(--color-secondary)  !important
 }
 
 .site-header .custom-color-dark .input-search-button button {
   color: #021523;
-  background-color: #0066cc;
-  border-color: #0066cc
+  background-color: var(--color-secondary) ;
+  border-color: var(--color-secondary) 
 }
 
 .site-header .custom-color-dark.header-main .site-menu .sub-menu a {
@@ -6307,7 +6308,7 @@ button.swiper-pagination-bullet {
 
 .site-header .custom-color-light {
   color: #021523;
-  background-color: #0066cc
+  background-color: var(--color-secondary) 
 }
 
 .site-header .custom-color-light a:hover {
@@ -6401,7 +6402,7 @@ button.swiper-pagination-bullet {
 
 .site-header .header-search-column {
   color: #021523;
-  background-color: #0066cc;
+  background-color: var(--color-lighter-dark-blue);
   width: 100%;
   color: white;
 }
@@ -6810,7 +6811,7 @@ button.swiper-pagination-bullet {
 }
 
 .product-deals-module .product:hover {
-  border-color: #0066cc
+  border-color: var(--color-secondary) 
 }
 
 .product-deals-module .product .thumbnail-wrapper {
@@ -6930,7 +6931,7 @@ button.swiper-pagination-bullet {
 }
 
 .special-offer-product .product {
-  border: 2px solid #0066cc;
+  border: 2px solid var(--color-secondary) ;
   border-radius: var(--size-border-radius);
   padding: 1.25rem
 }
@@ -7728,7 +7729,7 @@ button.swiper-pagination-bullet {
 .module-banner-text .banner-inner .entry-title strong {
   font-size: 1rem;
   font-weight: 500;
-  background-color: #0066cc;
+  background-color: var(--color-secondary) ;
   padding: 4px 15px;
   border-radius: 34px;
   margin: 0 5px;
@@ -9249,7 +9250,7 @@ blockquote p {
 }
 
 .products .product.most-commented .product-content-fade {
-  border-color: #0066cc
+  border-color: var(--color-secondary) 
 }
 
 .products .product:hover {
@@ -9748,7 +9749,7 @@ blockquote p {
   font-family: "klbtheme";
   content: "";
   letter-spacing: 2px;
-  color: #0066cc
+  color: var(--color-secondary) 
 }
 
 .price {
@@ -12344,7 +12345,7 @@ blockquote p {
 }
 
 .site-footer .footer-newsletter .site-newsletter .entry-description p strong {
-  color: #0066cc
+  color: var(--color-secondary) 
 }
 
 @media screen and (min-width:64rem) {
@@ -12387,7 +12388,7 @@ blockquote p {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   color: white;
-  background-color: #0066cc;
+  background-color: var(--color-secondary);
   border: 0
 }
 

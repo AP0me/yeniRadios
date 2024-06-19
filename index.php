@@ -385,55 +385,55 @@
     }
   </style>
   <link data-minify="1" rel='stylesheet' id='klb-single-ajax-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/single-ajax/css/single-ajax.css?ver=1718259534'
+    href='./css/single-ajax.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='klb-notice-ajax-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/notice-ajax/css/notice-ajax.css?ver=1718259534'
+    href='./css/notice-ajax.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='klbtheme-swatches-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/swatches/css/swatches.css?ver=1718259534'
+    href='./css/swatches.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='klb-free-shipping-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/shipping-progress-bar/css/free-shipping.css?ver=1718259534'
+    href='./css/free-shipping.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-ajax-search-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/ajax-search/css/ajax-search.css?ver=1718259534'
+    href='./css/ajax-search.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='klb-product-badge-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/product-badge/css/product-badge.css?ver=1718259534'
+    href='./css/product-badge.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='klbcp-frontend-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/compare/css/compare.css?ver=1718259534'
+    href='./css/compare.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-wishlist-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/machic-core/woocommerce-filter/wishlist/css/wishlist.css?ver=1718259534'
+    href='./css/wishlist.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-typekit-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/themes/machic/assets/css/typekit.css?ver=1718259534'
+    href='./css/typekit.css?ver=1718259534'
     type='text/css' media='all' />
   <link rel='stylesheet' id='bootstrap-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/themes/machic/assets/css/bootstrap.min.css?ver=1.0'
+    href='./css/bootstrap.min.css?ver=1.0'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='select2-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/woocommerce/assets/css/select2.css?ver=1718259534'
+    href='./css/select2.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-base-css'
-    href='./base.css?ver=1718259534'
+    href='./css/base.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-klbicon-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/themes/machic/assets/css/klbicon.css?ver=1718259534'
+    href='./css/klbicon.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='machic-style-css'
-    href='./style.css?ver=1718259534'
+    href='./css/style.css?ver=1718259534'
     type='text/css' media='all' />
   <link data-minify="1" rel='stylesheet' id='elementor-icons-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1718259534'
+    href='./css/elementor-icons.min.css?ver=1718259534'
     type='text/css' media='all' />
   <link rel='stylesheet' id='elementor-frontend-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1717575966'
+    href='./css/custom-frontend-lite.min.css?ver=1717575966'
     type='text/css' media='all' />
 
-  <link rel='stylesheet' href='./unfilled.css' type='text/css' />
+  <link rel='stylesheet' href='.css/unfilled.css' type='text/css' />
   <style id='elementor-frontend-inline-css' type='text/css'>
     .elementor-kit-6 {
       --e-global-color-primary: #6EC1E4;
@@ -649,7 +649,7 @@
     }
   </style>
   <link data-minify="1" rel='stylesheet' id='swiper-css'
-    href='https://754969b0.rocketcdn.me/machic/wp-content/cache/min/1/machic/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1718259534'
+    href='./css/swiper.min.css?ver=1718259534'
     type='text/css' media='all' />
 
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -885,7 +885,7 @@
         <div class="column left">
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="./img/n-logo.png" alt="Machic &#8211; El
+              <img src="./img/n-logo2.png" alt="Machic &#8211; El
               ">
             </a>
           </div><!-- site-brand -->
@@ -1373,7 +1373,7 @@
               <div class="site-brand">
                 <a href="#" title="Machic &#8211; El
                 ">
-                  <img src="./img/n-logo.png"
+                  <img src="./img/n-logo2.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: grayscale(100%) invert(100%) brightness(1000)" >
                 </a>
               </div><!-- site-brand -->
@@ -1882,7 +1882,7 @@
         <div class="column center">
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="./img/n-logo.png"
+              <img src="./img/n-logo2.png"
                 alt="Machic &#8211; Electronics Store eCommerce Theme">
             </a>
           </div><!-- site-brand -->
@@ -2219,7 +2219,7 @@
                                     href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/single-1-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple 10.9-inch iPad Air Wi-Fi Cellular 64GB"></div>
                                   </a>
@@ -2285,7 +2285,7 @@
                                     href="#product/apple-iphone-11-64gb-fully-unlocked-yellow/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-2-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 64GB Yellow Fully Unlocked"></div>
                                   </a>
@@ -2412,7 +2412,7 @@
                                     href="#product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-4-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Cubitt Smart Watch CT2S Waterproof Fitness Tracker"></div>
                                   </a>
@@ -2535,7 +2535,7 @@
                                     href="#product/apple-11-inch-ipad-pro-2021-wi-fi-128gb/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-15-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/ipad2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/ipad2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ipad4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple 11-inch iPad Pro (2021) Wi-Fi 128GB"></div>
                                   </a>
@@ -2599,7 +2599,7 @@
                                     href="#product/apple-mwp22am-a-airpods-pro/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/head1-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/head2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/head2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/head4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple MWP22AM/A AirPods Pro"></div>
                                   </a>
@@ -2659,7 +2659,7 @@
                                     href="#product/apple-iphone-11-pro-max-64gb-silver/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-8-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max (64GB) &#8211; Silver"></div>
                                   </a>
@@ -2722,7 +2722,7 @@
                                     href="#product/apple-mhxh3tu-a-magsafe-charger/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-9-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple MHXH3TU/A MagSafe Charger"></div>
                                   </a>
@@ -2782,7 +2782,7 @@
                                     href="#product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-12-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max 256GB Gold Fully Unlocked"></div>
                                   </a>
@@ -2843,7 +2843,7 @@
                                     href="#product/oneplus-8-pro-onyx-black-android-smartphone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-10-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="OnePlus 8 Pro Onyx Black Android Smartphone"></div>
                                   </a>
@@ -2908,7 +2908,7 @@
                                     href="#product/samsung-galaxy-a52-5g-android-cell-phone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-11-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Samsung Galaxy A52 5G Android Cell Phone"></div>
                                   </a>
@@ -3096,7 +3096,7 @@
                                     href="#product/cubitt-smart-watch-ct2s-waterproof-fitness-tracker/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-4-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/cubitt2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/cubitt3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Cubitt Smart Watch CT2S Waterproof Fitness Tracker"></div>
                                   </a>
@@ -3165,7 +3165,7 @@
                                     href="#product/new-apple-iphone-12-128gb-4gb-ram-white/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/newapple1-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/newapple2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/newapple2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/newapple4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="New Apple iPhone 12 (128GB &#8211; 4GB RAM) &#8211; White"></div>
                                   </a>
@@ -3304,7 +3304,7 @@
                                     href="#product/garmin-vivo-smart-3-activity-tracker-large/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/garmin1-400x400.jpeg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/garmin2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/garmin3-400x400.jpeg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/garmin2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/garmin3-400x400.jpeg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Garmin Vivo smart 3 Activity Tracker – Large"></div>
                                   </a>
@@ -3376,7 +3376,7 @@
                                     href="#product/echo-dot-4th-gen-2020-release-smart-speaker/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/echo1-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/echo2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo5-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo6-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/echo2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo5-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/echo6-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Echo Dot (4th Gen, 2020 release) | Smart speaker"></div>
                                   </a>
@@ -3447,7 +3447,7 @@
                                     href="#product/bose-noise-cancelling-wireless-bluetooth/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/noise3-400x400.jpeg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/noise2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise4-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise5-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise1-400x400.jpeg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/noise2-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise4-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise5-400x400.jpeg,https://klbtheme.com/machic/wp-content/uploads/2021/09/noise1-400x400.jpeg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Bose Noise Cancelling Wireless Bluetooth"></div>
                                   </a>
@@ -3672,7 +3672,7 @@
                                     href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/single-1-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/single-2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/single-3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/air4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple 10.9-inch iPad Air Wi-Fi Cellular 64GB"></div>
                                   </a>
@@ -3738,7 +3738,7 @@
                                     href="#product/apple-iphone-11-64gb-fully-unlocked-yellow/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-2-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/yellow2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/yellow4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 64GB Yellow Fully Unlocked"></div>
                                   </a>
@@ -3803,7 +3803,7 @@
                                     href="#product/apple-iphone-11-pro-max-64gb-silver/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-8-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/silver2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/silver4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max (64GB) &#8211; Silver"></div>
                                   </a>
@@ -3866,7 +3866,7 @@
                                     href="#product/apple-mhxh3tu-a-magsafe-charger/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-9-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/charge3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge4-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/charge1-1-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple MHXH3TU/A MagSafe Charger"></div>
                                   </a>
@@ -3926,7 +3926,7 @@
                                     href="#product/apple-iphone-11-pro-max-256gb-gold-fully-unlocked/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-12-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/iphone2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/iphone3-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone 11 Pro Max 256GB Gold Fully Unlocked"></div>
                                   </a>
@@ -3987,7 +3987,7 @@
                                     href="#product/oneplus-8-pro-onyx-black-android-smartphone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-10-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/8pro2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/8pro4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="OnePlus 8 Pro Onyx Black Android Smartphone"></div>
                                   </a>
@@ -4052,7 +4052,7 @@
                                     href="#product/samsung-galaxy-a52-5g-android-cell-phone/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-11-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/a523-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/a522-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Samsung Galaxy A52 5G Android Cell Phone"></div>
                                   </a>
@@ -4112,7 +4112,7 @@
                                     href="#product/apple-iphone-x-64gb-silver-fully-unlocked/">
                                     <div class="product-card"><img decoding="async"
                                         src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/product-19-400x400.jpg"
-                                        data-hover-slides="#wp-content/uploads/2021/09/ix2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix4-400x400.jpg"
+                                        data-hover-slides="https://klbtheme.com/machicwp-content/uploads/2021/09/ix2-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix3-400x400.jpg,https://klbtheme.com/machic/wp-content/uploads/2021/09/ix4-400x400.jpg"
                                         data-options='{"touch": "end", "preloadImages": true }'
                                         alt="Apple iPhone X 64GB Silver Fully Unlocked"></div>
                                   </a>
@@ -4432,7 +4432,7 @@
             <div class="site-details">
               <div class="site-brand">
                 <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-                <img src="./img/n-logo.png"
+                <img src="./img/n-logo2.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                 </a>
               </div>

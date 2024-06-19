@@ -554,7 +554,7 @@ a.added_to_cart:before {
 
 .header-type2 .site-departments.large .site-departments-wrapper>a {
   padding-left: 0;
-  background-color: #0066cc
+  background-color: var(--color-p);
 }
 
 .header-type2 .site-departments a .button-detail {
@@ -1629,8 +1629,8 @@ body button.dgwt-wcas-search-submit:before {
 
 .custom-color-dark .header-form button.dgwt-wcas-search-submit {
   color: #021523;
-  background-color: #0066cc;
-  border-color: #0066cc
+  background-color: var(--color-secondary);
+  border-color: var(--color-secondary)
 }
 
 .header-type2 .header-form .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input {
