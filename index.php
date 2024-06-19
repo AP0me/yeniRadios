@@ -1981,7 +1981,7 @@
                                 </div>
                               </div>
                               <div class="banner-image"><img decoding="async"
-                                  src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-6.jpg"
+                                  src="./img/slider-banner-6.jpg"
                                   alt="slider"></div><a class="overlay-link"
                                 href="#shop/"></a>
                             </div>
@@ -2021,7 +2021,7 @@
                                 </div>
                               </div>
                               <div class="banner-image"><img decoding="async"
-                                  src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-10.jpg"
+                                  src="./img/slider-banner-10.jpg"
                                   alt="slider"></div><a class="overlay-link"
                                 href="#shop/?ft=infinite"></a>
                             </div>
