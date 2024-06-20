@@ -5605,7 +5605,7 @@ button.swiper-pagination-bullet {
   align-items: center;
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  margin-left: 1.25rem
+  margin-left: 0.25rem
 }
 
 .site-header .header-addons a {
