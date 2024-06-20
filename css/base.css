@@ -6243,7 +6243,8 @@ button.swiper-pagination-bullet {
 }
 
 .site-header .header-mobile {
-  background-color: #fff
+  background-color: #fff;
+  background-color: var(--color-primary);
 }
 
 .site-header .header-mobile .header-wrapper {
@@ -6320,7 +6321,8 @@ button.swiper-pagination-bullet {
 
 .site-header .header-mobile-switcher {
   position: relative;
-  color: #021523;
+  color: white;
+  background-color: #021523;
   z-index: 10
 }
 
