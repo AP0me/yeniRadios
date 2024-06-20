@@ -1794,7 +1794,7 @@
         </div><!-- column -->
       </div><!-- header-wrapper -->
       <div class="header-form site-search" style="display: grid;">
-        <div style="justify-self: center; width: calc(100% - 112px); height: 30px;">
+        <div style="justify-self: center; width: calc(100% - 112px); height: 60px; margin-top: 10px;">
           <?php include("search-bar.php") ?>
         </div>
       </div>
