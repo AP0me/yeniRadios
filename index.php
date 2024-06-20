@@ -1373,7 +1373,7 @@
                 <a href="#" title="Machic &#8211; El
                 ">
                   <img src="./img/n-logo2.png"
-                    alt="Machic &#8211; Electronics Store eCommerce Theme">
+                    alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: grayscale(100%) invert(100%) brightness(1000)">
                 </a>
               </div><!-- site-brand -->
 
