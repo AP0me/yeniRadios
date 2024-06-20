@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Home 5 &#8211; Machic &#8211; Electronics Store eCommerce Theme</title>
+  <title>OmeY eCommerce Store</title>
   <link rel="preload" as="style"
     href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" />
   <link rel="stylesheet"
@@ -1502,7 +1502,7 @@
               </nav><!-- site-menu -->
             </div><!-- column -->
 
-            <?php include("navbar-addons.php") ?>
+            <?php include ('navbar-addons.php') ?>
 
           </div><!-- header-wrapper -->
         </div><!-- container -->
@@ -1722,7 +1722,7 @@
             <div class="column align-center right">
               <div class="header-form site-search">
                 <span>What are you looking for ?</span>
-                <?php include("search-bar.php") ?>
+                <?php include ('search-bar.php') ?>
               </div><!-- site-search -->
             </div><!-- column -->
 
@@ -1788,12 +1788,12 @@
           </div><!-- site-brand -->
         </div><!-- column -->
         <div class="column right">
-          <?php include("navbar-addons.php") ?>
+          <?php include ('navbar-addons.php') ?>
         </div><!-- column -->
       </div><!-- header-wrapper -->
       <div class="header-form site-search" style="display: grid;">
         <div style="justify-self: center; width: calc(100% - 36px); height: 60px; margin-top: 10px;">
-          <?php include("search-bar.php") ?>
+          <?php include ('search-bar.php') ?>
         </div>
       </div>
     </div><!-- header-mobile -->
