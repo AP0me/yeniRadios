@@ -885,8 +885,7 @@
         <div class="column left">
           <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="./img/n-logo2.png" alt="Machic &#8211; El
-              ">
+              <img src="./img/n-logo2.png" alt="Machic &#8211; El">
             </a>
           </div><!-- site-brand -->
         </div><!-- column -->
@@ -1374,7 +1373,7 @@
                 <a href="#" title="Machic &#8211; El
                 ">
                   <img src="./img/n-logo2.png"
-                    alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: grayscale(100%) invert(100%) brightness(1000)" >
+                    alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: grayscale(100%) invert(100%) brightness(1000)">
                 </a>
               </div><!-- site-brand -->
 
@@ -1784,8 +1783,7 @@
         <div class="column center mobile-logo" style="justify-content: start">
         <div class="site-brand">
             <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
-              <img src="./img/n-logo2.png"
-                alt="Machic &#8211; Electronics Store eCommerce Theme">
+              <img src="./img/n-logo2.png" alt="Machic &#8211; Electronics Store eCommerce Theme" style="filter: grayscale(100%) invert(100%) brightness(1000)">
             </a>
           </div><!-- site-brand -->
         </div><!-- column -->
