@@ -1,4 +1,4 @@
-<div class="column align-center right">
+<div class="column align-center right" style="flex: unset;">
 
     <div class="header-addons login-button" style="color: white">
       <a href="#my-account/">
