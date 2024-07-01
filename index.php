@@ -38,6 +38,10 @@
       background: none !important;
       padding: 0 !important;
     }
+    .searchbar-dropdown{
+    	width: 100px;
+    }
+
   </style>
   <style id='classic-theme-styles-inline-css' type='text/css'>
     /*! This file is auto-generated */
@@ -1720,7 +1724,7 @@
 
             </div><!-- column -->
             <div class="column align-center right">
-              <div class="header-form site-search">
+              <div class="header-form site-search" style="width: fit-content;">
                 <span>What are you looking for ?</span>
                 <?php include ('search-bar.php') ?>
               </div><!-- site-search -->
@@ -4218,10 +4222,11 @@
 
 
   <div class="klb-mobile-search">
-    <div class="header-form site-search">
-      <form action="#" class="search-form" role="search" method="get" id="searchform">
-        <div class="input-group">
-          <div class="input-search-addon"><select class="form-select custom-width" name="product_cat" id="categories">
+    <div class="header-form site-search" style="justify-content: end; width: fit-content;">
+      <form action="#" class="search-form" role="search" method="get" id="searchform" style="width: fit-content;">
+        <div class="input-group" style="width: fit-content;">
+          <div class="input-search-addon" class="searchbar-dropdown">
+            <select class="form-select custom-width" name="product_cat" id="categories">
               <option class="select-value" value="" selected="selected">All</option>
               <option value="apple">Apple</option>
               <option value="camera-photo">Camera &amp; Photo</option>
@@ -4232,7 +4237,8 @@
               <option value="sports-outdoors">Sports &amp; Outdoors</option>
               <option value="television-video">Television &amp; Video</option>
               <option value="video-games">Video Games</option>
-            </select></div><!-- input-search-addon -->
+            </select>
+          </div><!-- input-search-addon" -->
           <div class="input-search-field"><i class="klbth-icon-search"></i><input type="search" value=""
               class="form-control" name="s" placeholder="Search your favorite product..." autocomplete="off"></div>
           <!-- input-search-field -->
