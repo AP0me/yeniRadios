@@ -14,8 +14,7 @@
     <link rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" />
   </noscript>
-  <link rel="preload" as="image"
-    href="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-6.jpg" fetchpriority="high">
+  
   <meta name='robots' content='noindex, nofollow' />
   <link rel='dns-prefetch' href='//754969b0.rocketcdn.me' />
   <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
@@ -652,9 +651,7 @@
       }
     }
   </style>
-  <link data-minify="1" rel='stylesheet' id='swiper-css'
-    href='./css/swiper.min.css?ver=1718259534'
-    type='text/css' media='all' />
+  <link data-minify="1" rel='stylesheet' id='swiper-css' href='./css/swiper.css' type='text/css' media='all' />
 
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
   <script type="text/template" id="tmpl-variation-template">
@@ -1291,7 +1288,7 @@
             </nav>
 
             <div class="site-copyright">
-              <p>Copyright 2024 © Machic WordPress Theme. All right reserved. Powered by <strong>KLBTheme</strong>.</p>
+              <p>Copyright 2024 ©️ Omey. All right reserved.</p>
             </div><!-- site-copyright -->
 
           </div><!-- offcanvas-menu-wrapper -->
@@ -1683,93 +1680,11 @@
 
 
       <div data-elementor-type="wp-page" data-elementor-id="1642" class="elementor elementor-1642">
-        <section
-          class="elementor-section elementor-top-section elementor-element elementor-element-7999241 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-          data-id="7999241" data-element_type="section">
-          <div class="elementor-container elementor-column-gap-extended">
-            <div
-              class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ebc6d0e"
-              data-id="ebc6d0e" data-element_type="column">
-              <div class="elementor-widget-wrap elementor-element-populated">
-                <div
-                  class="elementor-element elementor-element-fb1b26d elementor-widget elementor-widget-machic-home-slider"
-                  data-id="fb1b26d" data-element_type="widget" data-widget_type="machic-home-slider.default">
-                  <div class="elementor-widget-container">
-                    <div class="site-module slider-module ">
-                      <div class="swiper-container" data-effect="slide" data-direction="horizontal" data-loop="true"
-                        data-speed="1000" data-spacebetween="0" data-autoplay="false" data-autospeed="" data-items="1"
-                        data-mobileitems="1" data-tabletitems="1">
-                        <div class="swiper-wrapper">
-                          <div class="swiper-slide">
-                            <div class="banner dark align-center large">
-                              <div class="banner-content">
-                                <div class="banner-content-wrapper">
-                                  <h6 class="entry-subtitle style-3">Weekend Discount</h6>
-                                  <h3 class="entry-title">The feature of health <strong>Shopping with style</strong>
-                                  </h3>
-                                  <div class="entry-description">
-                                    <p>Big screens in incredibly slim designs in your hand.</p>
-                                  </div>
-                                  <div class="entry-button"><a href="#shop/"
-                                      class="btn small rounded link-color">Shop Now</a></div>
-                                </div>
-                              </div>
-                              <div class="banner-image"><img decoding="async"
-                                  src="./img/slider-banner-6.jpg"
-                                  alt="slider"></div><a class="overlay-link"
-                                href="#shop/"></a>
-                            </div>
-                          </div>
-                          <div class="swiper-slide">
-                            <div class="banner dark align-center large">
-                              <div class="banner-content">
-                                <div class="banner-content-wrapper">
-                                  <h6 class="entry-subtitle style-3">Weekend Discount</h6>
-                                  <h3 class="entry-title">Shopping for real life <strong>Simply better shopping</strong>
-                                  </h3>
-                                  <div class="entry-description">
-                                    <p>Big screens in incredibly slim designs in your hand.</p>
-                                  </div>
-                                  <div class="entry-button"><a
-                                      href="#shop/?column=5&#038;opt=full-width"
-                                      class="btn small rounded link-color">Shop Now</a></div>
-                                </div>
-                              </div>
-                              <div class="banner-image"><img decoding="async"
-                                  src="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/09/slider-banner-9.jpg"
-                                  alt="slider"></div><a class="overlay-link"
-                                href="#shop/?column=5&#038;opt=full-width"></a>
-                            </div>
-                          </div>
-                          <div class="swiper-slide">
-                            <div class="banner dark align-center large">
-                              <div class="banner-content">
-                                <div class="banner-content-wrapper">
-                                  <h6 class="entry-subtitle style-3">Weekend Discount</h6>
-                                  <h3 class="entry-title">Feel-good shopping <strong>Shop what you desire</strong></h3>
-                                  <div class="entry-description">
-                                    <p>Big screens in incredibly slim designs in your hand.</p>
-                                  </div>
-                                  <div class="entry-button"><a href="#shop/?ft=infinite"
-                                      class="btn small rounded link-color">Shop Now</a></div>
-                                </div>
-                              </div>
-                              <div class="banner-image"><img decoding="async"
-                                  src="./img/slider-banner-10.jpg"
-                                  alt="slider"></div><a class="overlay-link"
-                                href="#shop/?ft=infinite"></a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="swiper-pagination"></div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <section
           class="elementor-section elementor-top-section elementor-element elementor-element-fd14a75 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
           data-id="fd14a75" data-element_type="section">
@@ -4073,8 +3988,7 @@
 
             <div class="footer-bottom">
               <div class="site-copyright">
-                <p>Copyright 2024 © Machic WordPress Theme. All right reserved. Powered by <strong>KLBTheme</strong>.
-                </p>
+                <p>Copyright 2024 ©️ Omey. All right reserved.</p>
               </div>
               <div class="site-payment-logos">
                 <a href="#shop/">
