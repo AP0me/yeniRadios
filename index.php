@@ -1680,11 +1680,7 @@
 
 
       <div data-elementor-type="wp-page" data-elementor-id="1642" class="elementor elementor-1642">
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+        <?php include ('slider.php') ?>
         <section
           class="elementor-section elementor-top-section elementor-element elementor-element-fd14a75 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
           data-id="fd14a75" data-element_type="section">
