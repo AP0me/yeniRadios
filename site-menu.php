@@ -2,7 +2,7 @@
   <ul id="menu-menu-2" class="menu">
     <li
       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children">
-      <a href="#">Home</a>
+      <a href="#" style="color: white">Home</a>
       <ul class="sub-menu">
         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a
             href="#">Home 1</a></li>
@@ -20,7 +20,7 @@
       </ul>
     </li>
     <li class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-      <a href="#shop/">Shop</a>
+      <a href="#shop/" style="color: white">Shop</a>
       <ul class="sub-menu">
         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
             href="#shop/">Shop Lists</a>
@@ -42,7 +42,7 @@
           </ul>
         </li>
         <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children"><a
-            href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
+            href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/" style="color: white">Product
             Detail</a>
           <ul class="sub-menu">
             <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
@@ -72,24 +72,24 @@
             href="#">Shop Pages</a>
           <ul class="sub-menu">
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#cart/">Cart</a></li>
+                href="#cart/" style="color: white">Cart</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#checkout/">Checkout</a></li>
+                href="#checkout/" style="color: white">Checkout</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#my-account/">My account</a></li>
+                href="#my-account/" style="color: white">My account</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#wishlist/">Wishlist</a></li>
+                href="#wishlist/" style="color: white">Wishlist</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#order-tracking/">Order Tracking</a></li>
+                href="#order-tracking/" style="color: white">Order Tracking</a></li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?featured=yes">Featured Products</a></li>
+                href="#shop/?featured=yes" style="color: white">Featured Products</a></li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp">Order
+                href="#product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp" style="color: white">Order
                 on WhatsApp</a></li>
           </ul>
         </li>
         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a
-            href="#">Shop Layouts</a>
+            href="#" style="color: white">Shop Layouts</a>
           <ul class="sub-menu">
             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
                 href="#shop/?column=2">Two Columns</a></li>
@@ -110,14 +110,14 @@
       </ul>
     </li>
     <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-        href="#product-category/cell-phones/"><i
-          class="klbth-icon-smartphone"></i> Cell Phones</a></li>
-    <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
-        href="#product-category/headphones/"><i
-          class="klbth-icon-headphones"></i> Headphones</a></li>
+        href="#product-category/cell-phones/" style="color: white"><i
+          class="klbth-icon-smartphone" style="color: white"></i> Cell Phones</a></li>
+    <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat" ><a
+        href="#product-category/headphones/" style="color: white"><i
+          class="klbth-icon-headphones" style="color: white"></i> Headphones</a></li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-        href="#blog/">Blog</a></li>
+        href="#blog/" style="color: white">Blog</a></li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-        href="#contact/">Contact</a></li>
+        href="#contact/" style="color: white">Contact</a></li>
   </ul>
 </nav><!-- site-menu -->
