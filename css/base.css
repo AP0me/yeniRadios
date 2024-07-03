@@ -3107,7 +3107,6 @@ h6 {
 .site-menu.horizontal .menu .sub-menu {
   position: absolute;
   min-width: 16.25rem;
-  top: 100%;
   left: -1.3125rem;
   margin: 0;
   padding: 1.25rem 0;
