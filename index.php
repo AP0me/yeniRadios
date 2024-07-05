@@ -511,7 +511,7 @@
     <link rel="apple-touch-icon" href="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/cropped-logo-dark-180x180.png" />
     <meta name="msapplication-TileImage" content="https://754969b0.rocketcdn.me/machic/wp-content/uploads/2021/08/cropped-logo-dark-270x270.png" />
     <style id="kirki-inline-styles">
-      .site-brand a img { width: 171px; }
+      .site-brand a img { width: 141px; }
       .site-header .header-mobile .site-brand img { width: 135px; }
       .site-offcanvas-header .site-brand img { width: 115px; }
       .header-type1 .header-top { font-size: 12px; }
@@ -1068,12 +1068,22 @@
           <div class="container">
             <div class="header-wrapper">
               <div class="column align-center left">
-                <div class="site-brand">
+                <div class="site-brand m-0 d-grid" style="gap: 15px; grid-template-columns: auto auto;">
                   <a href="#" title="Machic &#8211; El
                     ">
                   <img src="./img/n-logo2.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                   </a>
+                  <div class="d-grid" style="align-items: end; grid-template-rows: auto auto;">
+                    <div>Deliver to</div>
+                    <div class="deliver-to-vert d-flex">
+                      <i class="klbth-icon-pin-alt" style="height: min-content;"></i>
+                      <select class="form-select custom-color-dark p-0" style="height: 26px; border: 0px">
+                        <option value="">Azerbaijan</option>
+                        <option value="">Netherlands</option>
+                      </select>
+                    </div>
+                  </div>
                 </div>
                 <!-- site-brand -->
               </div>
@@ -1377,7 +1387,7 @@
         <!-- header-wrapper -->
       </div>
       <!-- header-mobile-switcher -->
-      <div class="header-mobile hide-desktop">
+      <div class="header-mobile hide-desktop d-grid">
         <div class="header-wrapper" style="gap: 20px;">
           <div class="column left">
             <a href="#">
@@ -1389,7 +1399,7 @@
           </div>
           <!-- column -->
           <div class="column center mobile-logo" style="justify-content: start">
-            <div class="site-brand">
+            <div class="site-brand m-0">
               <a href="#" title="Machic &#8211; Electronics Store eCommerce Theme">
               <img src="./img/n-logo2.png" alt="Machic &#8211; Electronics Store eCommerce Theme" >
               </a>
