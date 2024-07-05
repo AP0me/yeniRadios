@@ -1403,7 +1403,7 @@
           <!-- column -->
         </div>
         <!-- header-wrapper -->
-        <?php include ('search-bar.php') ?>
+        <?php include ('mobile-search.php') ?>
       </div>
       <!-- header-mobile -->
     </header>
@@ -3960,9 +3960,6 @@
     </footer>
     <!-- site-footer -->
     <div class="site-overlay"></div>
-    <div class="klb-mobile-search">
-      <?php include ('mobile-search.php') ?>
-    </div>
     <div class="mobile-bottom-menu">
       <div class="mobile-bottom-menu-wrapper">
         <nav class="mobile-menu">

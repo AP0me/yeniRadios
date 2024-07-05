@@ -1,5 +1,6 @@
-<div class="header-form site-search" style="justify-content: end; width: fit-content;">
-<form action="#" class="search-form" role="search" method="get" id="searchform" style="width: fit-content; flex: unset;">
+<div class="header-form site-search" style="display: grid;">
+  <div style="justify-self: center; height: 60px; margin-top: 10px;">
+  <form action="#" class="search-form" role="search" method="get" id="searchform" style="width: fit-content; flex: unset;">
     <div class="input-group" style="width: fit-content;">
       <div class="input-search-addon" class="searchbar-dropdown">
         <select class="form-select custom-width" name="product_cat" id="categories" style="width: 100px;">
@@ -25,4 +26,5 @@
       <!-- input-search-button -->
     </div><!-- input-group --><input type="hidden" name="post_type" value="product" />
   </form>
+  </div>
 </div>
