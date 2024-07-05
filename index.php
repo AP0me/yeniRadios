@@ -1074,16 +1074,7 @@
                   <img src="./img/n-logo2.png"
                     alt="Machic &#8211; Electronics Store eCommerce Theme">
                   </a>
-                  <div class="d-grid" style="align-items: end; grid-template-rows: auto auto;">
-                    <div>Deliver to</div>
-                    <div class="deliver-to-vert d-flex">
-                      <i class="klbth-icon-pin-alt" style="height: min-content;"></i>
-                      <select class="form-select custom-color-dark p-0" style="height: 26px; border: 0px">
-                        <option value="">Azerbaijan</option>
-                        <option value="">Netherlands</option>
-                      </select>
-                    </div>
-                  </div>
+                  <?php include ('deliver-to.php') ?>
                 </div>
                 <!-- site-brand -->
               </div>

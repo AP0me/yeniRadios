@@ -2,8 +2,8 @@
   <form action="#" class="search-form" role="search" method="get" id="searchform" style="">
     <div class="input-group" style="">
       <div class="input-search-addon" class="searchbar-dropdown">
-        <select class="form-select custom-width" name="product_cat" id="categories">
-          <option class="select-value" value="" selected="selected">All</option>
+        <select class="form-select dynamic-width-select" onchange="adjustSelectWidth(this);" name="product_cat" id="categories">
+          <option class="select-value" value="" selected="selected">All Departments</option>
           <option value="apple">Apple</option>
           <option value="camera-photo">Camera &amp; Photo</option>
           <option value="cell-phones">Cell Phones</option>
@@ -23,3 +23,19 @@
     </div><!-- input-group --><input type="hidden" name="post_type" value="product" />
   </form>
 </div>
+<script>
+  function adjustSelectWidth(selectElement) {
+    const testElement = document.createElement('span');
+    testElement.style.visibility = 'hidden';
+    testElement.style.position = 'absolute';
+    testElement.style.whiteSpace = 'nowrap';
+    document.body.appendChild(testElement);
+    testElement.innerText = selectElement.options[selectElement.selectedIndex].text;
+    const selectContainer = selectElement.parentNode;
+    const newWidth = testElement.offsetWidth + 29;
+    selectContainer.style.width = `${newWidth}px`;
+    document.body.removeChild(testElement);
+  }
+  const selectElement = document.querySelector('.dynamic-width-select');
+  adjustSelectWidth(selectElement);
+</script>
