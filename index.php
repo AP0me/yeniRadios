@@ -1011,7 +1011,7 @@
                   <ul id="menu-top-left" class="menu">
                     <li id="menu-item-2231"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2231"><a
-                      href="#about-us/">About Us</a></li>
+                      href="./about-us.php">About Us</a></li>
                     <li id="menu-item-2229"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2229"><a
                       href="#my-account/">My account</a></li>
@@ -3742,16 +3742,16 @@
                   <ul id="menu-make-money-with-us" class="menu">
                     <li id="menu-item-2171"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2171"><a
-                      href="#about-us/">Sell on Machic</a></li>
+                      href="./about-us.php">Sell on OmeY</a></li>
                     <li id="menu-item-2172"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2172"><a
-                      href="#contact/">Sell Your Services on Machic</a></li>
+                      href="#contact/">Sell Your Services on OmeY</a></li>
                     <li id="menu-item-2173"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2173"><a
-                      href="#contact/">Sell on Machic Business</a></li>
+                      href="#contact/">Sell on OmeY Business</a></li>
                     <li id="menu-item-2174"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174"><a
-                      href="#about-us/">Sell Your Apps on Machic</a></li>
+                      href="./about-us.php">Sell Your Apps on OmeY</a></li>
                     <li id="menu-item-2175"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2175"><a
                       href="#contact/">Become an Affilate</a></li>
@@ -3845,16 +3845,16 @@
                       href="#contact/">Careers</a></li>
                     <li id="menu-item-2508"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2508"><a
-                      href="#about-us/">About Machic</a></li>
+                      href="./about-us/">About OmeY</a></li>
                     <li id="menu-item-2188"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2188"><a
-                      href="#about-us/">Inverstor Relations</a></li>
+                      href="./about-us/">Inverstor Relations</a></li>
                     <li id="menu-item-2189"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2189"><a
-                      href="#about-us/">Machic Devices</a></li>
+                      href="./about-us/">OmeY Devices</a></li>
                     <li id="menu-item-2190"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2190"><a
-                      href="#about-us/">Customer reviews</a></li>
+                      href="./about-us/">Customer reviews</a></li>
                     <li id="menu-item-2513"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2513">
                       <a rel="privacy-policy" href="#privacy-policy/">Privacy Policy</a>

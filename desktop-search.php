@@ -2,7 +2,7 @@
   <form action="#" class="search-form" role="search" method="get" id="searchform" style="">
     <div class="input-group" style="">
       <div class="input-search-addon" class="searchbar-dropdown">
-        <select class="form-select dynamic-width-select" onchange="adjustSelectWidth(this);" name="product_cat" id="categories">
+        <select class="form-select custom-width dynamic-width-select" onchange="adjustSelectWidth(this);" name="product_cat" id="categories">
           <option class="select-value" value="" selected="selected">All Departments</option>
           <option value="apple">Apple</option>
           <option value="camera-photo">Camera &amp; Photo</option>
