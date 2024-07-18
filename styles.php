@@ -899,6 +899,37 @@
       .site-offcanvas .site-copyright{
       color: ;
       }
+
+      .cross-close-wrap{
+        width: 350px;
+      }
+      .all-side-row{
+        display: grid;
+        grid-template-columns: 280px min-content;
+        width: 350px;
+        padding-left: 30px;
+      }
+      .all-side{
+        display: grid;
+        grid-template-rows: auto auto;
+        position: absolute;
+        grid-column: 1;
+        z-index: 21;
+        background-color: white;
+        padding-top: 20px;
+        width: 350px;
+      }
+      .scroll-side{
+        overflow-x: hidden;
+      }
+      .main-side{
+        width: 350px;
+        height: 100vh;
+      }
+      .sub-side{
+        width: 350px;
+        height: 100vh;
+      }
     </style>
     <noscript>
       <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
