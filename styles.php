@@ -912,7 +912,7 @@
       .all-side{
         display: grid;
         grid-template-rows: auto auto;
-        position: absolute;
+        position: fixed;
         grid-column: 1;
         z-index: 21;
         background-color: white;
