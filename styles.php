@@ -905,7 +905,7 @@
       }
       .all-side-row{
         display: grid;
-        grid-template-columns: 280px min-content;
+        grid-template-columns: 275px min-content;
         width: 350px;
         padding-left: 30px;
       }
@@ -929,6 +929,15 @@
       .sub-side{
         width: 350px;
         height: 100vh;
+      }
+      .all-side-back-arrow[isTransparent=yes]{
+        display: none;
+      }
+      .all-side-cancel-btn[isTransparent=yes]{
+        display: none;
+      }
+      html[scrollable=no]{
+        overflow: hidden;
       }
     </style>
     <noscript>

@@ -25,7 +25,6 @@
 </div>
 <script>
   function adjustSelectWidth(selectElement) {
-    console.log("kkk")
     const testElement = document.createElement('span');
     testElement.style.visibility = 'hidden';
     testElement.style.position = 'absolute';

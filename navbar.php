@@ -195,12 +195,15 @@
 </header>
 <script>
   let closeWrap = document.querySelector(".all-side");
+  let docHTML =document.querySelector("html");
   function openCategories(){
     if(closeWrap.getAttribute("hidden")===""){
       closeWrap.removeAttribute("hidden");
+      docHTML.setAttribute("scrollable", "no");
     }
     else{
       closeWrap.setAttribute("hidden", "");
+      docHTML.setAttribute("scrollable", "yes");
     }
   }
 </script>
