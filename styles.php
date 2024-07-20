@@ -916,24 +916,24 @@
         grid-column: 1;
         z-index: 21;
         background-color: white;
-        padding-top: 20px;
         width: 350px;
+        height: 100vh;
       }
       .scroll-side{
         overflow-x: hidden;
       }
       .main-side{
         width: 350px;
-        height: 100vh;
+        height: 100%;
       }
       .sub-side{
         width: 350px;
-        height: 100vh;
+        height: 100%;
       }
-      .all-side-back-arrow[isTransparent=yes]{
-        display: none;
+      .all-side-back-arrow, .all-side-cancel-btn{
+        justify-self: end; align-self: center; margin-right: 24px;
       }
-      .all-side-cancel-btn[isTransparent=yes]{
+      .all-side-back-arrow[isTransparent=yes], .all-side-cancel-btn[isTransparent=yes]{
         display: none;
       }
       html[scrollable=no]{
