@@ -120,18 +120,16 @@ const allSideSubDepartments = [
   let subSide = document.querySelector(".sub-side");
   let allSideSubDepartments = <?php echo json_encode(allSideSubDepartments) ?>;
   function fetchSubDepartmentData(departmentHeader, departmentID) {
-    fetch(`side-sub-department.php?allSideSubDepartments=${encodeURIComponent(JSON.stringify(allSideSubDepartments))}&departmentHeader=${encodeURIComponent(departmentHeader)}&sideDepartmentID=${encodeURIComponent(departmentID)}`)      .then(response => {
-      if (!response.ok) { throw new Error('Network response was not ok ' + response.statusText); }
-      return response.text();
-    })
-    .then(data => {
-      subSide.innerHTML = data;
-      subDepartmentSwipe();
-      // You can also update the DOM or perform other actions with the data
-    })
-    .catch(error => {
-      console.error('There has been a problem with your fetch operation:', error);
-    });
+    let currentSubDep = allSideSubDepartments[departmentHeader][departmentID]
+    for (let i = 0; i < currentSubDep.length; i++) {
+      const subDepartmentName = currentSubDep[i];
+      subSide.innerHTML += `
+      <div class="all-side-row">
+        <p class="sideSubDepartments">${subDepartmentName}</p>
+        <div> <!-- Just needed --> </div>
+      </div>`;
+    }
+    subDepartmentSwipe();
   }
 
   let scrollSide = document.querySelector(".scroll-side");
