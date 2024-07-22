@@ -1,4 +1,5 @@
-    <header id="masthead" class="site-header border-enable header-type2 klb-type4">
+<?php include('all-side.php') ?>
+<header id="masthead" class="site-header border-enable header-type2 klb-type4">
   <div class="header-desktop hide-mobile">
     <div class="header-top dark border-disable custom-color-dark">
       <div class="container">

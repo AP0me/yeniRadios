@@ -62,7 +62,6 @@
   </head>
   <body class="page-template-default page page-id-1642 theme-machic woocommerce-no-js klb-bottom-menu  elementor-default elementor-kit-6 elementor-page elementor-page-1642"
     style="display: grid;">
-    <?php include('all-side.php') ?>
     <div class="" style="grid-column: 1; width: calc(100vw - 17px); justify-self: center;">
       <aside class="site-offcanvas">
         <div class="site-scroll">

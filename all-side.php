@@ -1,5 +1,5 @@
 <?php
-$_SERVER['sideDepartment'] = [
+$sideDepartment = [
   "Digital Content & Devices" => [
     "Amazon Music",
     "Kindle E-readers & Books",
@@ -43,27 +43,70 @@ $_SERVER['sideDepartment'] = [
     "Customer Service",
   ],
 ];
-$_SERVER['sideDepartmentHeaders'] = [
+$sideDepartmentHeaders = [
   "Digital Content & Devices",
   "Shop by Department",
   "Programs & Features",
   "Help & Settings",
 ];
 
+const allSideSubDepartments = [
+  "Digital Content & Devices" => [
+    0 => [
+      "Stream Music",
+      "Amazon Music Unlimited",
+      "Free Streaming Music",
+      "Podcasts",
+      "Open Web Player",
+      "Open Web Player",
+      "Download the app",
+
+    ],
+    1 => [
+      "Kindle E-readers",
+      "Kindle Kids",
+      "Kindle",
+      "Kindle Paperwhite Kids",
+      "Kindle Paperwhite",
+      "Kindle Scribe",
+      "Accessories",
+      "See all Kindle E-Readers",
+      "Kindle Store",
+      "Kindle Books",
+      "Kindle Unlimited",
+      "Prime Reading",
+      "Kindle Vella",
+      "Apps & Resources",
+      "Free Kindle Reading Apps",
+      "Kindle for Web",
+      "Manage Your Content and Devices",
+      "Trade-In",
+    ],
+    2 => [
+      "Amazon Appstore",
+      "All Apps and Games",
+      "Games",
+      "Amazon Coins",
+      "Download Amazon Appstore",
+      "Amazon Apps",
+      "Your Apps and Subscriptions",
+    ],
+  ],
+];
 ?>
 <div class="all-side" hidden >
-  <div style="display: grid; height: 38px;">
+  <div style="display: grid; height: 40px;">
     <i class="klbth-icon-angle-left all-side-back-arrow" onclick="scrollToMain()" isTransparent="yes"></i>
     <i class="klbth-icon-cancel all-side-cancel-btn" onclick="openCategories()"></i>
   </div>
   <div class="scroll-side" style="display: flex">
     <div class="main-side">
       <?php
-      $_SERVER['sideDepartmentID'] = 0;
-      for ($headerIndex=0; $headerIndex < count($_SERVER['sideDepartmentHeaders']); $headerIndex++) {
-        $sideHeader = $_SERVER['sideDepartmentHeaders'][$headerIndex];
+      $sideDepartmentID = 0;
+      for ($headerIndex=0; $headerIndex < count($sideDepartmentHeaders); $headerIndex++) {
+        $sideHeader = $sideDepartmentHeaders[$headerIndex];
         echo "<strong class='all-side-row'>$sideHeader</strong><br >";
-        for ($_SERVER['sideDepartmentID']=0; $_SERVER['sideDepartmentID'] < count($_SERVER['sideDepartment'][$sideHeader]); $_SERVER['sideDepartmentID']++) {
+        for ($sideDepartmentID=0; $sideDepartmentID < count($sideDepartment[$sideHeader]); $sideDepartmentID++) {
           include("side-department.php");
         }
         echo '<hr>';
@@ -75,21 +118,20 @@ $_SERVER['sideDepartmentHeaders'] = [
 </div>
 <script>
   let subSide = document.querySelector(".sub-side");
-  function fetchSubDepartmentData(departmentID) {
-    fetch(`side-sub-department.php?sideDepartmentID=${departmentID}`)
-      .then(response => {
-        if (!response.ok) { throw new Error('Network response was not ok ' + response.statusText); }
-        return response.text();
-      })
-      .then(data => {
-        console.log(data);
-        subSide.innerHTML = data;
-        subDepartmentSwipe();
-        // You can also update the DOM or perform other actions with the data
-      })
-      .catch(error => {
-        console.error('There has been a problem with your fetch operation:', error);
-      });
+  let allSideSubDepartments = <?php echo json_encode(allSideSubDepartments) ?>;
+  function fetchSubDepartmentData(departmentHeader, departmentID) {
+    fetch(`side-sub-department.php?allSideSubDepartments=${encodeURIComponent(JSON.stringify(allSideSubDepartments))}&departmentHeader=${encodeURIComponent(departmentHeader)}&sideDepartmentID=${encodeURIComponent(departmentID)}`)      .then(response => {
+      if (!response.ok) { throw new Error('Network response was not ok ' + response.statusText); }
+      return response.text();
+    })
+    .then(data => {
+      subSide.innerHTML = data;
+      subDepartmentSwipe();
+      // You can also update the DOM or perform other actions with the data
+    })
+    .catch(error => {
+      console.error('There has been a problem with your fetch operation:', error);
+    });
   }
 
   let scrollSide = document.querySelector(".scroll-side");
