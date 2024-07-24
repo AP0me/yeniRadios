@@ -911,7 +911,7 @@
       }
       .all-side{
         display: grid;
-        grid-template-rows: auto auto;
+        grid-template-rows: min-content auto;
         position: fixed;
         grid-column: 1;
         z-index: 21;
