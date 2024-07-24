@@ -920,11 +920,16 @@
         height: 100vh;
       }
       .scroll-side{
+        display: flex;
         overflow-x: hidden;
+        height: 100%;
       }
       .main-side{
         width: 350px;
         height: 100%;
+      }
+      .main-side[dontdisplay=yes]{
+        display: none;
       }
       .sub-side{
         width: 350px;

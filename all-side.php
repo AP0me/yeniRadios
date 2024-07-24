@@ -53,43 +53,48 @@ $sideDepartmentHeaders = [
 const allSideSubDepartments = [
   "Digital Content & Devices" => [
     0 => [
-      "Stream Music",
-      "Amazon Music Unlimited",
-      "Free Streaming Music",
-      "Podcasts",
-      "Open Web Player",
-      "Open Web Player",
-      "Download the app",
+      "Stream Music" => [
+        "Amazon Music Unlimited",
+        "Free Streaming Music",
+        "Podcasts",
+        "Open Web Player",
+        "Open Web Player",
+        "Download the app",
+      ]
 
     ],
     1 => [
-      "Kindle E-readers",
-      "Kindle Kids",
-      "Kindle",
-      "Kindle Paperwhite Kids",
-      "Kindle Paperwhite",
-      "Kindle Scribe",
-      "Accessories",
-      "See all Kindle E-Readers",
-      "Kindle Store",
-      "Kindle Books",
-      "Kindle Unlimited",
-      "Prime Reading",
-      "Kindle Vella",
-      "Apps & Resources",
-      "Free Kindle Reading Apps",
-      "Kindle for Web",
-      "Manage Your Content and Devices",
-      "Trade-In",
+      "Kindle E-readers" => [
+        "Kindle Kids",
+        "Kindle",
+        "Kindle Paperwhite Kids",
+        "Kindle Paperwhite",
+        "Kindle Scribe",
+        "Accessories",
+        "See all Kindle E-Readers",
+      ],
+      "Kindle Store" => [
+        "Kindle Books",
+        "Kindle Unlimited",
+        "Prime Reading",
+        "Kindle Vella",
+      ],
+      "Apps & Resources" => [
+        "Free Kindle Reading Apps",
+        "Kindle for Web",
+        "Manage Your Content and Devices",
+        "Trade-In",
+      ],
     ],
     2 => [
-      "Amazon Appstore",
-      "All Apps and Games",
-      "Games",
-      "Amazon Coins",
-      "Download Amazon Appstore",
-      "Amazon Apps",
-      "Your Apps and Subscriptions",
+      "Amazon Appstore" => [
+        "All Apps and Games",
+        "Games",
+        "Amazon Coins",
+        "Download Amazon Appstore",
+        "Amazon Apps",
+        "Your Apps and Subscriptions",
+      ],
     ],
   ],
 ];
@@ -99,8 +104,8 @@ const allSideSubDepartments = [
     <i class="klbth-icon-angle-left all-side-back-arrow" onclick="scrollToMain()" isTransparent="yes"></i>
     <i class="klbth-icon-cancel all-side-cancel-btn" onclick="openCategories()"></i>
   </div>
-  <div class="scroll-side" style="display: flex">
-    <div class="main-side">
+  <div class="scroll-side">
+    <div class="main-side" dontdisplay="no">
       <?php
       $sideDepartmentID = 0;
       for ($headerIndex=0; $headerIndex < count($sideDepartmentHeaders); $headerIndex++) {
@@ -118,16 +123,38 @@ const allSideSubDepartments = [
 </div>
 <script>
   let subSide = document.querySelector(".sub-side");
+  let mainSide =document.querySelector(".main-side");
   let allSideSubDepartments = <?php echo json_encode(allSideSubDepartments) ?>;
   function fetchSubDepartmentData(departmentHeader, departmentID) {
-    let currentSubDep = allSideSubDepartments[departmentHeader][departmentID]
-    for (let i = 0; i < currentSubDep.length; i++) {
-      const subDepartmentName = currentSubDep[i];
-      subSide.innerHTML += `
-      <div class="all-side-row">
-        <p class="sideSubDepartments">${subDepartmentName}</p>
-        <div> <!-- Just needed --> </div>
-      </div>`;
+    subSide.innerHTML="";
+    let currentSubDep = allSideSubDepartments[departmentHeader][departmentID];
+    let subDepartmentTemplate = document.createElement('template');
+    let subDepartmentHeaderTemplate = document.createElement('template');
+    subDepartmentTemplate.innerHTML = `
+    <div class="all-side-row">
+      <p class="sideSubDepartments"></p>
+      <div> <!-- Just needed --> </div>
+    </div>`;
+
+    subDepartmentHeaderTemplate.innerHTML = `
+    <div class="all-side-row">
+      <strong class="sideSubDepartments"></strong>
+      <div> <!-- Just needed --> </div>
+    </div>
+    <br>`;
+    for (const subDepHeader in currentSubDep) {
+      const currentSubDepSec = currentSubDep[subDepHeader];
+      let headerTemplateCopy = subDepartmentHeaderTemplate.content.cloneNode(true);
+      headerTemplateCopy.querySelector('.sideSubDepartments').textContent = subDepHeader;
+      subSide.appendChild(headerTemplateCopy);
+
+      for (let i = 0; i < currentSubDepSec.length; i++) {
+        const subDepartmentName = currentSubDepSec[i];
+        let templateCopy = subDepartmentTemplate.content.cloneNode(true);
+        templateCopy.querySelector('.sideSubDepartments').textContent = subDepartmentName;
+        subSide.appendChild(templateCopy);
+      }
+      subSide.appendChild(document.createElement("hr"));
     }
     subDepartmentSwipe();
   }
@@ -136,6 +163,7 @@ const allSideSubDepartments = [
   let backArrow = document.querySelector(".all-side-back-arrow");
   let cancelBtn = document.querySelector(".all-side-cancel-btn");
   function subDepartmentSwipe(){
+    mainSide.setAttribute("dontdisplay", "yes");
     console.log("subDepartmentSwipe");
     scrollSide.scrollTo({
       top: 0,
@@ -147,6 +175,7 @@ const allSideSubDepartments = [
   }
   function scrollToMain(){
     console.log("scrollToMain");
+    mainSide.setAttribute("dontdisplay", "no");
     scrollSide.scrollTo({
       top: 0,
       left: 0,
