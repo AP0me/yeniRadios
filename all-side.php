@@ -50,7 +50,7 @@ $sideDepartmentHeaders = [
   "Help & Settings",
 ];
 
-const allSideSubDepartments = [
+$allSideSubDepartments = [
   "Digital Content & Devices" => [
     0 => [
       "Stream Music" => [
@@ -58,10 +58,8 @@ const allSideSubDepartments = [
         "Free Streaming Music",
         "Podcasts",
         "Open Web Player",
-        "Open Web Player",
         "Download the app",
-      ]
-
+      ],
     ],
     1 => [
       "Kindle E-readers" => [
@@ -108,10 +106,9 @@ const allSideSubDepartments = [
     <div class="main-side" dontdisplay="no">
       <?php
       $sideDepartmentID = 0;
-      for ($headerIndex=0; $headerIndex < count($sideDepartmentHeaders); $headerIndex++) {
-        $sideHeader = $sideDepartmentHeaders[$headerIndex];
+      foreach ($sideDepartmentHeaders as $sideHeader) {
         echo "<strong class='all-side-row'>$sideHeader</strong><br >";
-        for ($sideDepartmentID=0; $sideDepartmentID < count($sideDepartment[$sideHeader]); $sideDepartmentID++) {
+        foreach ($sideDepartment[$sideHeader] as $sideDepartmentID => $sideDepartmentItem) {
           include("side-department.php");
         }
         echo '<hr>';
@@ -123,40 +120,42 @@ const allSideSubDepartments = [
 </div>
 <script>
   let subSide = document.querySelector(".sub-side");
-  let mainSide =document.querySelector(".main-side");
-  let allSideSubDepartments = <?php echo json_encode(allSideSubDepartments) ?>;
+  let mainSide = document.querySelector(".main-side");
+  let allSideSubDepartments = <?php echo json_encode($allSideSubDepartments); ?>;
   function fetchSubDepartmentData(departmentHeader, departmentID) {
     subSide.innerHTML="";
-    let currentSubDep = allSideSubDepartments[departmentHeader][departmentID];
-    let subDepartmentTemplate = document.createElement('template');
-    let subDepartmentHeaderTemplate = document.createElement('template');
-    subDepartmentTemplate.innerHTML = `
-    <div class="all-side-row">
-      <p class="sideSubDepartments"></p>
-      <div> <!-- Just needed --> </div>
-    </div>`;
+    if(allSideSubDepartments[departmentHeader] && allSideSubDepartments[departmentHeader][departmentID]) {
+      let currentSubDep = allSideSubDepartments[departmentHeader][departmentID];
+      let subDepartmentTemplate = document.createElement('template');
+      let subDepartmentHeaderTemplate = document.createElement('template');
+      subDepartmentTemplate.innerHTML = `
+      <div class="all-side-row">
+        <p class="sideSubDepartments"></p>
+        <div> <!-- Just needed --> </div>
+      </div>`;
 
-    subDepartmentHeaderTemplate.innerHTML = `
-    <div class="all-side-row">
-      <strong class="sideSubDepartments"></strong>
-      <div> <!-- Just needed --> </div>
-    </div>
-    <br>`;
-    for (const subDepHeader in currentSubDep) {
-      const currentSubDepSec = currentSubDep[subDepHeader];
-      let headerTemplateCopy = subDepartmentHeaderTemplate.content.cloneNode(true);
-      headerTemplateCopy.querySelector('.sideSubDepartments').textContent = subDepHeader;
-      subSide.appendChild(headerTemplateCopy);
+      subDepartmentHeaderTemplate.innerHTML = `
+      <div class="all-side-row">
+        <strong class="sideSubDepartments"></strong>
+        <div> <!-- Just needed --> </div>
+      </div>
+      <br>`;
+      for (const subDepHeader in currentSubDep) {
+        const currentSubDepSec = currentSubDep[subDepHeader];
+        let headerTemplateCopy = subDepartmentHeaderTemplate.content.cloneNode(true);
+        headerTemplateCopy.querySelector('.sideSubDepartments').textContent = subDepHeader;
+        subSide.appendChild(headerTemplateCopy);
 
-      for (let i = 0; i < currentSubDepSec.length; i++) {
-        const subDepartmentName = currentSubDepSec[i];
-        let templateCopy = subDepartmentTemplate.content.cloneNode(true);
-        templateCopy.querySelector('.sideSubDepartments').textContent = subDepartmentName;
-        subSide.appendChild(templateCopy);
+        for (let i = 0; i < currentSubDepSec.length; i++) {
+          const subDepartmentName = currentSubDepSec[i];
+          let templateCopy = subDepartmentTemplate.content.cloneNode(true);
+          templateCopy.querySelector('.sideSubDepartments').textContent = subDepartmentName;
+          subSide.appendChild(templateCopy);
+        }
+        subSide.appendChild(document.createElement("hr"));
       }
-      subSide.appendChild(document.createElement("hr"));
+      subDepartmentSwipe();
     }
-    subDepartmentSwipe();
   }
 
   let scrollSide = document.querySelector(".scroll-side");
