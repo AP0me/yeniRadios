@@ -75,7 +75,6 @@ $sideDepartmentHeaders = [
   let subSide = document.querySelector(".sub-side");
   let mainSide = document.querySelector(".main-side");
   
-  // Directly define the JavaScript object
   let allSideSubDepartments = {
     "Digital Content & Devices": {
       0: {
