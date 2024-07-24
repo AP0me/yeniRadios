@@ -49,53 +49,6 @@ $sideDepartmentHeaders = [
   "Programs & Features",
   "Help & Settings",
 ];
-
-$allSideSubDepartments = [
-  "Digital Content & Devices" => [
-    0 => [
-      "Stream Music" => [
-        "Amazon Music Unlimited",
-        "Free Streaming Music",
-        "Podcasts",
-        "Open Web Player",
-        "Download the app",
-      ],
-    ],
-    1 => [
-      "Kindle E-readers" => [
-        "Kindle Kids",
-        "Kindle",
-        "Kindle Paperwhite Kids",
-        "Kindle Paperwhite",
-        "Kindle Scribe",
-        "Accessories",
-        "See all Kindle E-Readers",
-      ],
-      "Kindle Store" => [
-        "Kindle Books",
-        "Kindle Unlimited",
-        "Prime Reading",
-        "Kindle Vella",
-      ],
-      "Apps & Resources" => [
-        "Free Kindle Reading Apps",
-        "Kindle for Web",
-        "Manage Your Content and Devices",
-        "Trade-In",
-      ],
-    ],
-    2 => [
-      "Amazon Appstore" => [
-        "All Apps and Games",
-        "Games",
-        "Amazon Coins",
-        "Download Amazon Appstore",
-        "Amazon Apps",
-        "Your Apps and Subscriptions",
-      ],
-    ],
-  ],
-];
 ?>
 <div class="all-side" hidden >
   <div style="display: grid; height: 40px;">
@@ -121,9 +74,57 @@ $allSideSubDepartments = [
 <script>
   let subSide = document.querySelector(".sub-side");
   let mainSide = document.querySelector(".main-side");
-  let allSideSubDepartments = <?php echo json_encode($allSideSubDepartments); ?>;
+  
+  // Directly define the JavaScript object
+  let allSideSubDepartments = {
+    "Digital Content & Devices": {
+      0: {
+        "Stream Music": [
+          "Amazon Music Unlimited",
+          "Free Streaming Music",
+          "Podcasts",
+          "Open Web Player",
+          "Download the app"
+        ]
+      },
+      1: {
+        "Kindle E-readers": [
+          "Kindle Kids",
+          "Kindle",
+          "Kindle Paperwhite Kids",
+          "Kindle Paperwhite",
+          "Kindle Scribe",
+          "Accessories",
+          "See all Kindle E-Readers"
+        ],
+        "Kindle Store": [
+          "Kindle Books",
+          "Kindle Unlimited",
+          "Prime Reading",
+          "Kindle Vella"
+        ],
+        "Apps & Resources": [
+          "Free Kindle Reading Apps",
+          "Kindle for Web",
+          "Manage Your Content and Devices",
+          "Trade-In"
+        ]
+      },
+      2: {
+        "Amazon Appstore": [
+          "All Apps and Games",
+          "Games",
+          "Amazon Coins",
+          "Download Amazon Appstore",
+          "Amazon Apps",
+          "Your Apps and Subscriptions"
+        ]
+      }
+    }
+  };
+
   function fetchSubDepartmentData(departmentHeader, departmentID) {
-    subSide.innerHTML="";
+    subSide.innerHTML = "";
     if(allSideSubDepartments[departmentHeader] && allSideSubDepartments[departmentHeader][departmentID]) {
       let currentSubDep = allSideSubDepartments[departmentHeader][departmentID];
       let subDepartmentTemplate = document.createElement('template');
@@ -167,7 +168,7 @@ $allSideSubDepartments = [
     scrollSide.scrollTo({
       top: 0,
       left: 350,
-      behavior: "smooth",
+      behavior: "smooth"
     });
     backArrow.setAttribute("isTransparent", "no");
     cancelBtn.setAttribute("isTransparent", "yes");
@@ -178,7 +179,7 @@ $allSideSubDepartments = [
     scrollSide.scrollTo({
       top: 0,
       left: 0,
-      behavior: "smooth",
+      behavior: "smooth"
     });
     backArrow.setAttribute("isTransparent", "yes");
     cancelBtn.setAttribute("isTransparent", "no");
