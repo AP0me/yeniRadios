@@ -42,7 +42,7 @@
           </ul>
         </li>
         <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children"><a
-            href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/" style="color: white">Product
+            href="#product/apple-10-9-inch-ipad-air-wi-fi-cellular-64gb/">Product
             Detail</a>
           <ul class="sub-menu">
             <li class="menu-item menu-item-type-post_type menu-item-object-product"><a
@@ -72,40 +72,40 @@
             href="#">Shop Pages</a>
           <ul class="sub-menu">
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#cart/" style="color: white">Cart</a></li>
+                href="#cart/">Cart</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#checkout/" style="color: white">Checkout</a></li>
+                href="#checkout/">Checkout</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#my-account/" style="color: white">My account</a></li>
+                href="#my-account/">My account</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#wishlist/" style="color: white">Wishlist</a></li>
+                href="#wishlist/">Wishlist</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                href="#order-tracking/" style="color: white">Order Tracking</a></li>
+                href="#order-tracking/">Order Tracking</a></li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?featured=yes" style="color: white">Featured Products</a></li>
+                href="#shop/?featured=yes">Featured Products</a></li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp" style="color: white">Order
+                href="#product/apple-iphone-11-pro-max-64gb-silver/?ft=orderonwhatsapp">Order
                 on WhatsApp</a></li>
           </ul>
         </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a
-            href="#" style="color: white">Shop Layouts</a>
-          <ul class="sub-menu">
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=2">Two Columns</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=3">Three Columns</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=3&amp;opt=wide">Three Columns Wide</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=4">Four Columns</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=4&amp;opt=wide">Four Columns Wide</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=5&amp;opt=wide">Five Columns Wide</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
-                href="#shop/?column=6&amp;opt=wide">Six Columns Wide</a></li>
-          </ul>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+            <a href="#">Shop Layouts</a>
+            <ul class="sub-menu">
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=2">Two Columns</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=3">Three Columns</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=3&amp;opt=wide">Three Columns Wide</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=4">Four Columns</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=4&amp;opt=wide">Four Columns Wide</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=5&amp;opt=wide">Five Columns Wide</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                    href="#shop/?column=6&amp;opt=wide">Six Columns Wide</a></li>
+            </ul>
         </li>
       </ul>
     </li>
