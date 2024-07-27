@@ -1,4 +1,3 @@
-<?php include('all-side.php') ?>
 <header id="masthead" class="site-header border-enable header-type2 klb-type4">
   <div class="header-desktop hide-mobile">
     <div class="header-top dark border-disable custom-color-dark">
@@ -196,15 +195,18 @@
 </header>
 <script>
   let closeWrap = document.querySelector(".all-side");
-  let docHTML =document.querySelector("html");
+  let docHTML = document.querySelector("html");
+  let siteSquisher = document.querySelector(".site-squisher");
   function openCategories(){
-    if(closeWrap.getAttribute("hidden")===""){
-      closeWrap.removeAttribute("hidden");
+    if(closeWrap.getAttribute("width-o")===""){
+      closeWrap.removeAttribute("width-o");
       docHTML.setAttribute("scrollable", "no");
+      siteSquisher.setAttribute("squish", "yes");
     }
     else{
-      closeWrap.setAttribute("hidden", "");
+      closeWrap.setAttribute("width-o", "");
       docHTML.setAttribute("scrollable", "yes");
+      siteSquisher.setAttribute("squish", "no");
     }
   }
 </script>

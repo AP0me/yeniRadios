@@ -912,12 +912,15 @@
       .all-side{
         display: grid;
         grid-template-rows: min-content auto;
-        position: fixed;
-        grid-column: 1;
         z-index: 21;
         background-color: white;
         width: 350px;
         height: 100vh;
+      }
+      .all-side[width-o=""]{
+        width: 0;
+        overflow: hidden;
+        grid-template-rows: 0 0;
       }
       .scroll-side{
         display: flex;
@@ -942,7 +945,16 @@
         display: none;
       }
       html[scrollable=no]{
-        overflow: hidden;
+      }
+      .site-squisher[squish=no]{
+        width: calc(100vw - 17px);
+        justify-self: center;
+      }
+      .site-squisher[squish=yes]{
+        width: calc(100vw - 372px);
+      }
+      .swiper-slide{
+        width: max-content;
       }
     </style>
     <noscript>

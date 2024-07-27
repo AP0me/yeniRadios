@@ -50,7 +50,7 @@ $sideDepartmentHeaders = [
   "Help & Settings",
 ];
 ?>
-<div class="all-side" hidden >
+<div class="all-side" width-o="">
   <div style="display: grid; height: 40px;">
     <i class="klbth-icon-angle-left all-side-back-arrow" onclick="scrollToMain()" isTransparent="yes"></i>
     <i class="klbth-icon-cancel all-side-cancel-btn" onclick="openCategories()"></i>
