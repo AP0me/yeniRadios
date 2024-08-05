@@ -66,7 +66,7 @@
         <div class="header-wrapper">
           <div class="column align-center left">
             <div class="site-brand m-0 d-grid" style="gap: 15px; grid-template-columns: auto auto;">
-              <a href="#" title="Machic &#8211; El
+              <a href="/" title="Machic &#8211; El
                 ">
               <img src="./img/n-logo2.png"
                 alt="Machic &#8211; Electronics Store eCommerce Theme">
