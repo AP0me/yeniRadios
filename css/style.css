@@ -3558,6 +3558,9 @@ i[class^="fa-"] {
   body.klb-bottom-menu .site-footer {
     margin-bottom: 58px
   }
+  .scroll-side{
+    height: calc(100% - 58px);
+  }
 }
 
 .products .product-price-cart a.button {

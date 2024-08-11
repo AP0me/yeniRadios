@@ -927,6 +927,7 @@
         overflow-x: hidden;
         height: 100%;
       }
+
       .main-side{
         width: 350px;
         height: 100%;
@@ -945,6 +946,7 @@
         display: none;
       }
       html[scrollable=no]{
+        overflow: hidden;
       }
       .site-squisher[squish=no]{
         width: calc(100vw - 17px);

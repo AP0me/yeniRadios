@@ -166,7 +166,7 @@
   <div class="header-mobile hide-desktop d-grid">
     <div class="header-wrapper" style="gap: 20px;">
       <div class="column left">
-        <a href="#">
+        <a href="#" onclick="openCategories()">
           <div class="header-addons-icon">
             <i class="klbth-icon-menu"></i>
           </div>
